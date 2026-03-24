@@ -4,26 +4,10 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+Gürol Saglam is a highly accomplished Digital Design, FPGA, and ASIC Engineer with a robust academic background and extensive practical experience in cutting-edge hardware and software development. Holding an M.Sc. in Computer Science and a B.Sc. in Electrical and Electronics Engineering from Ozyegin University, Gürol has consistently demonstrated excellence, including ranking 1st in his Electrical & Electronics Engineering department.
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+His expertise spans the full spectrum of digital design, from in-depth research on Printed Electronics (PE) and hardware optimization for machine learning models to the development of high-bandwidth communication systems using FPGA technology. Gürol has a proven track record in creating testbenches for verification, performing Static Timing Analysis (STA), and developing automated frameworks in Python for complex digital designs.
 
-## Features
+Throughout his career, Gürol has made significant contributions as a Researcher and Engineer at institutions such as [CDNC](https://cdnc.itec.kit.edu/index.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/) and [nEMESysLab](https://ugurdag.com/nemesyslab.html) at [Ozyegin University](https://www.ozyegin.edu.tr). His work includes designing RTL for DCO-OFDM, rigorous debugging on real hardware, and instructing students on various technical subjects, including Computer Architecture and FPGA design.
 
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+With a strong foundation in both theoretical knowledge and practical application, Gürol Saglam is dedicated to advancing the field of digital design and engineering through innovative solutions and meticulous execution.
