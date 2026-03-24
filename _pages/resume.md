@@ -1,5 +1,5 @@
 ---
-layout: page_cv
+layout: page
 title: CV
 permalink: /resume/
 ---
