@@ -619,10 +619,6 @@ permalink: /resume/
 	letter-spacing: -0.0627px;
 }
 
- body > div {
-	box-shadow: 0 0 5px rgba(0,0,0,0.3) !important;
-	margin: 20px auto !important;
-}
 
 </STYLE> 
 </head>
