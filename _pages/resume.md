@@ -1,13 +1,12 @@
 ---
-layout: page
+layout: page_cv
 title: CV
 permalink: /resume/
 ---
 
-<html>
-	<head>
-	<STYLE> 
- .pdf24_ sup {
+<head>
+<STYLE>
+.pdf24_ sup {
 	vertical-align: baseline;
 	position: relative;
 	top: -0.4em;
