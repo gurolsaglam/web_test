@@ -643,7 +643,6 @@ permalink: /resume/
 				<div class="pdf24_01" style="left:3.841em;top:3.1152em;z-index:3;"><span class="pdf24_15 pdf24_08 pdf24_09">G</span><span class="pdf24_15 pdf24_08 pdf24_16">u</span><span class="pdf24_15 pdf24_08 pdf24_17">¨</span><span class="pdf24_15 pdf24_08 pdf24_18">r</span><span class="pdf24_15 pdf24_08 pdf24_19" style="word-spacing:0.0313em;">ol Saglam &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:5.483em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.028em;">Digital Design/FPGA/ASIC Engineer &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:6.6785em;"><span class="pdf24_07 pdf24_08 pdf24_20">Address: &nbsp;</span></div>
-				<div class="pdf24_01" style="left:3.841em;top:7.874em;"><span class="pdf24_07 pdf24_08 pdf24_09">Phone: &nbsp;</span></div>
 				<div class="pdf24_01" style="left:8.5467em;top:6.6752em;"><span class="pdf24_10 pdf24_11 pdf24_21" style="word-spacing:0.0247em;">Karlsruhe, Germany &nbsp;</span></div>
 				<div class="pdf24_01" style="left:27.264em;top:7.1737em;"><span class="pdf24_07 pdf24_08 pdf24_12" style="word-spacing:0.0297em;">Google Scholar: &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:9.5038em;"><span class="pdf24_07 pdf24_08 pdf24_22">EDUCATION &nbsp;</span></div>
