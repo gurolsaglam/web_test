@@ -645,7 +645,6 @@ permalink: /resume/
 				<div class="pdf24_01" style="left:3.841em;top:6.6785em;"><span class="pdf24_07 pdf24_08 pdf24_20">Address: &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:7.874em;"><span class="pdf24_07 pdf24_08 pdf24_09">Phone: &nbsp;</span></div>
 				<div class="pdf24_01" style="left:8.5467em;top:6.6752em;"><span class="pdf24_10 pdf24_11 pdf24_21" style="word-spacing:0.0247em;">Karlsruhe, Germany &nbsp;</span></div>
-				<div class="pdf24_01" style="left:8.6006em;top:7.8707em;"><span class="pdf24_10 pdf24_11 pdf24_09">+4915207573537 &nbsp;</span></div>
 				<div class="pdf24_01" style="left:27.264em;top:7.1737em;"><span class="pdf24_07 pdf24_08 pdf24_12" style="word-spacing:0.0297em;">Google Scholar: &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:9.5038em;"><span class="pdf24_07 pdf24_08 pdf24_22">EDUCATION &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:10.7956em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.05em;">M.Sc. Computer Science </span><span class="pdf24_10 pdf24_11 pdf24_23" style="word-spacing:0.0323em;">— Ozyegin University — 3.87/4 G</span><span class="pdf24_10 pdf24_11 pdf24_24">P</span><span class="pdf24_10 pdf24_11 pdf24_24">A &nbsp;</span></div>
