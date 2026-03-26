@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Code snippets in a blog post
+permalink: /materials/:title/
 categories: [HTML,Code]
 ---
 
