@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: CV
+    url: /resume/
+  - title: Useful Materials
+    url: /materials/
+    sublinks:
+      - title: By Tag
+        url: /tags/
+      - title: By Category
+        url: /categories/
+      - title: By Year
+        url: /year-archive/
+  - title: Search
+    url: /search/
+  - title: Archive
+    url: /archive/
+  # TITLE/URL EXAMPLE
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #
+  # DROP DOWN BUTTON EXAMPLE
+  # - title: Support
+  #   sublinks:
+  #     - title: FAQ
+  #       url: /faq/
+  #     - title: Documentation
+  #       url: /Documentation/
+  #     - title: Customer Support
+  #       url: /Support/
