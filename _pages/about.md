@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Gürol Saglam is a highly accomplished Digital Design, FPGA, and ASIC Engineer with a robust academic background and extensive practical experience in cutting-edge hardware and software development. Holding an M.Sc. in Computer Science and a B.Sc. in Electrical and Electronics Engineering from Özyeğin University, Gürol has consistently demonstrated excellence, including ranking 1st in his Electrical & Electronics Engineering department.
+I am a digital design engineer working across FPGA and ASIC development. I hold an M.Sc. in Computer Science and a B.Sc. in Electrical and Electronics Engineering from [Özyeğin University](https://www.ozyegin.edu.tr), where I graduated top of my department.
 
-His expertise spans the full spectrum of digital design, from in-depth research on Printed Electronics (PE) and hardware optimization for machine learning models to the development of high-bandwidth communication systems using FPGA technology. Gürol has a proven track record in creating testbenches for verification, performing Static Timing Analysis (STA), and developing automated frameworks in Python for complex digital designs.
+I enjoy building things that sit close to the hardware. My work has included RTL design for DCO-OFDM, FPGA-based communication and signal-processing systems, and hands-on debugging on real boards. I also spend a lot of time on verification and implementation, including writing testbenches, running static timing analysis, and using Python to automate repetitive parts of the design and validation flow.
 
-Throughout his career, Gürol has made significant contributions as a Researcher and Engineer at institutions such as [CDNC](https://cdnc.itec.kit.edu/index.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/) and [nEMESysLab](https://ugurdag.com/nemesyslab.html) at [Özyeğin University](https://www.ozyegin.edu.tr). His work includes designing RTL for DCO-OFDM, rigorous debugging on real hardware, and instructing students on various technical subjects, including Computer Architecture and FPGA design.
-
-With a strong foundation in both theoretical knowledge and practical application, Gürol Saglam is dedicated to advancing the field of digital design and engineering through innovative solutions and meticulous execution.
+I have worked as a researcher and engineer at [CDNC](https://cdnc.itec.kit.edu/index.php) at [Karlsruhe Institute of Technology (KIT)](https://www.kit.edu/english/) and at [nEMESysLab](https://ugurdag.com/nemesyslab.html) at [Özyeğin University](https://www.ozyegin.edu.tr). Along the way, I have also supported teaching in areas like Computer Architecture and FPGA Design.
