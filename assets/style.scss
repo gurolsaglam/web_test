@@ -191,7 +191,7 @@ ul, ol {
 }
 
 ul {
-  list-style-type: none;
+  list-style-type: disc;
 }
 
 ol {
@@ -203,7 +203,7 @@ ol ul, ul ol, ul ul, ol ol {
 }
 
 ul ul, ol ul {
-  list-style-type: none;
+  list-style-type: circle;
 }
 
 em, i {
