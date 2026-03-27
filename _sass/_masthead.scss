@@ -26,6 +26,40 @@ $darker-gray: mix(#000, $gray, 60%) !default;
 $light-gray: mix(#fff, $gray, 50%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 
+
+/*
+   Bourbon clearfix
+   ========================================================================== */
+
+/*
+  * Provides an easy way to include a clearfix for containing floats.
+  * link http://cssmojo.com/latest_new_clearfix_so_far/
+  *
+  * example scss - Usage
+  *
+  * .element {
+  *   @include clearfix;
+  * }
+  *
+  * example css - CSS Output
+  *
+  * .element::after {
+  *   clear: both;
+  *   content: "";
+  *   display: table;
+  * }
+*/
+
+@mixin clearfix {
+  clear: both;
+
+  &::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+}
+
 .masthead {
   position: relative;
   border-bottom: 1px solid $lighter-gray;
