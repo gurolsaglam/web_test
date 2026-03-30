@@ -39,40 +39,6 @@ $right-sidebar-width-narrow: 200px !default;
 $right-sidebar-width: 300px !default;
 $right-sidebar-width-wide: 400px !default;
 
-
-/*
-   Bourbon clearfix
-   ========================================================================== */
-
-/*
-  * Provides an easy way to include a clearfix for containing floats.
-  * link http://cssmojo.com/latest_new_clearfix_so_far/
-  *
-  * example scss - Usage
-  *
-  * .element {
-  *   @include clearfix;
-  * }
-  *
-  * example css - CSS Output
-  *
-  * .element::after {
-  *   clear: both;
-  *   content: "";
-  *   display: table;
-  * }
-*/
-
-@mixin clearfix {
-  clear: both;
-
-  &::after {
-    clear: both;
-    content: "";
-    display: table;
-  }
-}
-
 .breadcrumbs {
   @include clearfix;
   margin: 0 auto;
