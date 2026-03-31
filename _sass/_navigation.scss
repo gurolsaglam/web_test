@@ -324,7 +324,7 @@
     display: none;
   }
 
-  @include breakpoint(max-width $large - 1px) {
+  /*@include breakpoint(max-width $large - 1px) {
     label {
       position: relative;
       display: inline-block;
@@ -412,7 +412,7 @@
         text-decoration: underline;
       }
     }
-  }
+  }*/
 }
 
 .nav__list .nav__items {
@@ -430,7 +430,7 @@
     font-weight: bold;
   }
 
-  @include breakpoint(max-width $large - 1px) {
+  /*@include breakpoint(max-width $large - 1px) {
     position: relative;
     max-height: 0;
     opacity: 0%;
@@ -441,10 +441,10 @@
     -webkit-transform: translate(0, 10%);
     -ms-transform: translate(0, 10%);
     transform: translate(0, 10%);
-  }
+  }*/
 }
 
-@include breakpoint(max-width $large - 1px) {
+/*@include breakpoint(max-width $large - 1px) {
   .nav__list input:checked ~ .nav__items {
     -webkit-transition: 0.5s ease-in-out;
     transition: 0.5s ease-in-out;
@@ -456,7 +456,7 @@
     -ms-transform: translate(0, 0);
     transform: translate(0, 0);
   }
-}
+}*/
 
 .nav__title {
   margin: 0;
@@ -511,9 +511,9 @@
   list-style: none;
   font-size: $type-size-6;
 
-  @include breakpoint($large) {
+  /*@include breakpoint($large) {
     font-size: $type-size-7;
-  }
+  }*/
 
   a {
     display: block;
