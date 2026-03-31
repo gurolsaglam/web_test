@@ -41,6 +41,8 @@ $max-width: $x-large !default;
 $muted-text-color: mix(#fff, $darkGray, 20%) !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 $border-color: $lighter-gray !default;
+$info-color: #3b9cba !default;
+$link-color: mix(#000, $info-color, 20%) !default;
 $link-color-hover: mix(#000, $link-color, 25%) !default;
 $primary-color: #6f777d !default;
 $border-radius: 4px !default;
