@@ -27,10 +27,6 @@ wrapper-masthead {
   justify-content: space-between;
   font-family: $helveticaNeue;
 
-  /* @include breakpoint($x-large) {
-    max-width: $max-width;
-  } */
-
   nav {
     z-index: 10;
   }
@@ -69,9 +65,6 @@ wrapper-masthead {
   .site-nav {
     margin-left: 0;
 
-    /* @include breakpoint($small) {
-      float: right;
-    } */
   }
 
   ul {
