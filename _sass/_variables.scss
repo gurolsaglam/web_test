@@ -25,3 +25,29 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+
+
+$intro-transition: intro 0.3s both !default;
+$global-transition: all 0.2s ease-in-out !default;
+$type-size-5: 1em !default; // ~16px
+$type-size-6: 0.75em !default; // ~12px
+$type-size-7: 0.6875em !default; // ~11px
+$type-size-8: 0.625em !default; // ~10px
+$small: 600px !default;
+$large: 1024px !default;
+$x-large: 1280px !default;
+$max-width: $x-large !default;
+$muted-text-color: mix(#fff, $darkGray, 20%) !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+$border-color: $lighter-gray !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$primary-color: #6f777d !default;
+$border-radius: 4px !default;
+$nav-height: 2em !default;
+$nav-toggle-height: 2rem !default;
+$masthead-link-color: $primary-color !default;
+$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
+$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
+$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+$active-color: mix(#fff, $primary-color, 80%) !default;
