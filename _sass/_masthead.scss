@@ -2,35 +2,11 @@
    MASTHEAD
    ========================================================================== */
 
-/*.wrapper-masthead {
-  margin-bottom: 25px;
-}*/
-
 wrapper-masthead {
-  /*@include clearfix;*/
-  /*margin-left: auto;
-  margin-right: auto;*/
   margin-bottom: 25px;
-  /*padding: 1em;
-  max-width: 100%;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-  -ms-flex-pack: justify;
-  justify-content: space-between;
-  font-family: $helveticaNeue;
-
-  nav {
-    z-index: 10;
-  }
-
-  a {
-    text-decoration: none;
-  }*/
 }
 
-/*from style original css begin*/
+/*from style original-css begin*/
 .masthead {
   padding: 20px 0;
   border-bottom: 1px solid $lightGray;
@@ -120,47 +96,16 @@ nav {
       color: $blue;
     }
   }
-} /*from style original css end*/
-
-/*.site-logo img {
-  max-height: 2rem;
-}
-
-.site-title {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-item-align: center;
-  align-self: center;
-  font-weight: bold;
-  // z-index: 20;
-}
-
-.site-subtitle {
-  display: block;
-  font-size: $type-size-8;
-}*/
-
-/*.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-}*/
+} /*from style original-css end*/
 
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  /*float: left;
-  margin-left: 0;
-  margin-right: 0;
-  clear: both;*/
 
   .site-nav {
     margin-left: 0;
-
   }
 
   ul {
