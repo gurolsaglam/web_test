@@ -7,8 +7,9 @@ main:
   - title: CV
     url: /resume/
   - title: Useful Materials
-    url: /materials/
     sublinks:
+      - title: Everything
+        url: /materials/
       - title: By Tag
         url: /tags/
       - title: By Category
