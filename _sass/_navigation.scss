@@ -3,7 +3,6 @@
      ========================================================================== */
 
 .pagination {
-  /*@include clearfix();*/
   float: left;
   margin-top: 1em;
   padding-top: 1em;
@@ -32,7 +31,7 @@
       text-align: center;
       text-decoration: none;
       color: $muted-text-color;
-      border: 1px solid mix(#000, $border-color, 25%);
+      border: 1px solid mix(#000, $lighter-gray, 25%);
       border-radius: 0;
 
       &:hover {
@@ -81,7 +80,7 @@
     text-align: center;
     text-decoration: none;
     color: $muted-text-color;
-    border: 1px solid mix(#000, $border-color, 25%);
+    border: 1px solid mix(#000, $lighter-gray, 25%);
     border-radius: $border-radius;
 
     &:first-child {
@@ -109,7 +108,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
+  border-top: 1px solid $lighter-gray;
 }
 
 /*
@@ -239,7 +238,7 @@
     right: 0;
     margin-top: 15px;
     padding: 5px;
-    border: 1px solid $border-color;
+    border: 1px solid $lighter-gray;
     border-radius: $border-radius;
     background: $white;
     -webkit-box-shadow: 0 2px 4px 0 rgba(#000, 0.16),
@@ -269,7 +268,7 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $border-color transparent;
+      lighter-gray: $lighter-gray transparent;
       display: block;
       z-index: 0;
     }
@@ -282,14 +281,14 @@
       width: 0;
       border-style: solid;
       border-width: 0 10px 10px;
-      border-color: $white transparent;
+      lighter-gray: $white transparent;
       display: block;
       z-index: 1;
     }
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid $lighter-gray;
 
       &:last-child {
         border-bottom: none;
@@ -353,7 +352,7 @@
   font-size: $type-size-6;
   font-weight: bold;
   text-transform: uppercase;
-  border-bottom: 1px solid $border-color;
+  border-bottom: 1px solid $lighter-gray;
 }
 
 /*
@@ -364,7 +363,7 @@
   font-family: $helveticaNeue;
   color: $gray;
   background-color: $white;
-  border: 1px solid $border-color;
+  border: 1px solid $lighter-gray;
   border-radius: $border-radius;
   -webkit-box-shadow: $box-shadow;
   box-shadow: $box-shadow;
@@ -391,7 +390,7 @@
     color: $muted-text-color;
     font-weight: bold;
     line-height: 1.5;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 1px solid $lighter-gray;
 
     &:hover {
       color: $darkGray;
