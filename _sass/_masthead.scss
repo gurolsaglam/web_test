@@ -142,11 +142,21 @@ nav {
 }*/
 
 /*.container {
-  float: left;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+}*/
+
+.container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  /*float: left;
   margin-left: 0;
   margin-right: 0;
-  width: 100%;
-  clear: both;
+  clear: both;*/
 
   .site-nav {
     margin-left: 0;
@@ -159,7 +169,7 @@ nav {
     clear: both;
     list-style-type: none;
   }
-}*/
+}
 
 .container-item {
   display: block;
