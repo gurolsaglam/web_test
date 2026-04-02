@@ -32,6 +32,14 @@ $navicon-link-color-hover: $aswadblack !default;
 $main-text-color: $bauhaus !default;
 
 
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
+
+
 
 
 $nav-height: 2em !default;
