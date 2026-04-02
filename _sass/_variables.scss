@@ -1,44 +1,46 @@
-
 //
 // VARIABLES
 //
-
-// Colors
-$blue: #4183C4;
-
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
 
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
-// Mobile breakpoints
-@mixin mobile {
-  @media screen and (max-width: 640px) {
-    @content;
-  }
-}
+// Colors
+$blue: #4183c4;
+$salvation: #50505b;
+$blackmarlin: #383840;
+$bastille: #2c2c32;
+$aswadblack: #18181b;
+$bauhaus: #404040;
+
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$cerebralgray: #ccc;
+$lightGray: #eee;
+$white: #fff;
+
+// Colors for specific blocks
+$primary-color: $salvation !default; /*TODO: eliminate this*/
+$masthead-link-color: $salvation !default;
+$masthead-link-color-hover: $blackmarlin !default;
+$navicon-link-color-hover: $aswadblack !default;
+$main-text-color: $bauhaus !default;
 
 
-$primary-color: #6f777d !default;
+
 
 $nav-height: 2em !default;
 $nav-toggle-height: 2rem !default;
-$masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$global-transition: all 0.2s ease-in-out !default;
 
+$global-transition: all 0.2s ease-in-out !default;
 $lighter-gray: mix(#fff, $gray, 90%) !default;
 $border-radius: 4px !default;
 $type-size-5: 1em !default; // ~16px
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
 
 
 $type-size-6: 0.75em !default; // ~12px
