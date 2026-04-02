@@ -26,22 +26,27 @@ $georgia: Georgia, serif;
   }
 }
 
-$global-transition: all 0.2s ease-in-out !default;
-$type-size-5: 1em !default; // ~16px
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$large: 1024px !default;
-$muted-text-color: mix(#fff, $darkGray, 20%) !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
-$info-color: #3b9cba !default;
-$link-color: mix(#000, $info-color, 20%) !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
-$primary-color: #6f777d !default;
-$border-radius: 4px !default;
+
+$primary-color: #6f77ff !default;
+
 $nav-height: 2em !default;
 $nav-toggle-height: 2rem !default;
 $masthead-link-color: $primary-color !default;
 $masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
+$global-transition: all 0.2s ease-in-out !default;
+
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+$border-radius: 4px !default;
+$type-size-5: 1em !default; // ~16px
 $navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;
+
+
+$type-size-6: 0.75em !default; // ~12px
+$type-size-7: 0.6875em !default; // ~11px
+$large: 1024px !default;
+$muted-text-color: mix(#fff, $darkGray, 20%) !default;
+$info-color: #3b9cba !default;
+$link-color: mix(#000, $info-color, 20%) !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
 $active-color: mix(#fff, $primary-color, 80%) !default;
