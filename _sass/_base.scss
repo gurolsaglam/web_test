@@ -39,7 +39,7 @@ h1 {
   a {
     color: $masthead-link-color;
     &:hover, &:active {
-      color: $$masthead-link-color-hover;
+      color: $masthead-link-color-hover;
     }
 	&:before {
       background: $primary-color;
