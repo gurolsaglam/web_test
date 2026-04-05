@@ -30,7 +30,17 @@ $masthead-link-color: $salvation !default;
 $masthead-link-color-hover: $blackmarlin !default;
 $navicon-link-color-hover: $aswadblack !default;
 $main-text-color: $bauhaus !default;
+$lighter-gray: mix(#fff, $gray, 90%) !default;
+$link-color-hover: mix(#000, mix(#000, #3b9cba, 20%), 25%) !default;
 
+//Visuals
+$global-transition: all 0.2s ease-in-out !default;
+$nav-height: 2em !default;
+$nav-toggle-height: 2rem !default;
+$border-radius: 4px !default;
+$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
+$type-size-5: 1em !default; // ~16px
+$type-size-6: 0.75em !default; // ~12px
 
 // Mobile breakpoints
 @mixin mobile {
@@ -41,22 +51,3 @@ $main-text-color: $bauhaus !default;
 
 
 
-
-$nav-height: 2em !default;
-$nav-toggle-height: 2rem !default;
-
-$global-transition: all 0.2s ease-in-out !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
-$border-radius: 4px !default;
-$type-size-5: 1em !default; // ~16px
-
-
-$type-size-6: 0.75em !default; // ~12px
-$type-size-7: 0.6875em !default; // ~11px
-$large: 1024px !default;
-$muted-text-color: mix(#fff, $darkGray, 20%) !default;
-$info-color: #3b9cba !default;
-$link-color: mix(#000, $info-color, 20%) !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
-$box-shadow: 0 1px 1px rgba(0, 0, 0, 0.125) !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
