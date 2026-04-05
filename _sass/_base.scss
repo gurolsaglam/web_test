@@ -37,7 +37,23 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    color: $masthead-link-color;
+    &:hover, &:active {
+      color: $$masthead-link-color-hover;
+    }
+	&:before {
+      background: $primary-color;
+      -webkit-transition: $global-transition;
+      transition: $global-transition;
+      -webkit-transform: scaleX(0) translate3d(0, 0, 0);
+      transform: scaleX(0) translate3d(0, 0, 0); // hide
+    }
+
+    &:hover:before {
+      -webkit-transform: scaleX(1);
+      -ms-transform: scaleX(1);
+      transform: scaleX(1); // reveal
+    }
   }
 }
 
