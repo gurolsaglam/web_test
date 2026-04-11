@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Profile
+permalink: /profile/
 ---
 
 I am a digital design engineer working across FPGA and ASIC development. I hold an M.Sc. in Computer Science and a B.Sc. in Electrical and Electronics Engineering from [Özyeğin University](https://www.ozyegin.edu.tr), where I graduated top of my department.

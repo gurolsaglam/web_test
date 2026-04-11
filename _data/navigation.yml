@@ -3,22 +3,24 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
-  - title: CV
-    url: /resume/
-  - title: Useful Materials
     sublinks:
-      - title: Everything
+      - title: "Profile"
+        url: /profile/
+      - title: "CV"
+        url: /resume/
+  - title: "Useful Materials"
+    sublinks:
+      - title: "Everything"
         url: /materials/
-      - title: By Tag
+      - title: "By Tag"
         url: /tags/
-      - title: By Category
+      - title: "By Category"
         url: /categories/
-      - title: By Year
+      - title: "By Year"
         url: /year-archive/
-  - title: Search
+  - title: "Search"
     url: /search/
-  - title: Archive
+  - title: "Archive"
     url: /archive/
   # TITLE/URL EXAMPLE
   # - title: "About"
