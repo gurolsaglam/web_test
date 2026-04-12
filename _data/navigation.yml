@@ -1,14 +1,17 @@
 # main links
 main:
   - title: "Home"
+    icon: fa fa-home fa-lg
     url: /
   - title: "About"
+    icon: fa fa-user fa-lg
     sublinks:
       - title: "Profile"
         url: /profile/
       - title: "CV"
         url: /resume/
   - title: "Useful Materials"
+    icon: fa fa-book fa-lg
     sublinks:
       - title: "Everything"
         url: /materials/
@@ -19,9 +22,14 @@ main:
       - title: "By Year"
         url: /year-archive/
   - title: "Search"
+    icon: fa fa-search fa-lg
     url: /search/
   - title: "Archive"
+    icon: fa fa-archive fa-lg
     url: /archive/
+  - title: "Sitemap"
+    icon: fa fa-sitemap fa-lg
+    url: /sitemap/
   # TITLE/URL EXAMPLE
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
