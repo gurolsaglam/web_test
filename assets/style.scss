@@ -72,6 +72,24 @@
   }
 }
 
+.container {
+  margin: 0 auto;
+  max-width: 1280px; /*740px;*/
+  padding: 0 10px;
+  width: 100%;
+
+  .site-nav {
+    margin-left: 0;
+  }
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+
 /*.wrapper-container {
   min-height: 100%;
   position: relative;
