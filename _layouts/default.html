@@ -39,9 +39,9 @@
                   {% if link.sublinks %}
                     <li class="dropdown {{ class }}">
                       {% if link.icon %}
-                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><i class="{{ link.icon }}"></i>    {{ link.title }}    <i class="fa fa-caret-down fa-lg" aria-hidden="true"></i></a>
+                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><i class="{{ link.icon }}"></i>    {{ link.title }}    <i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
 					  {% else %}
-                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}    <i class="fa fa-caret-down fa-lg" aria-hidden="true"></i></a>
+                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}    <i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
 					  {% endif %}
 					  <ul class="dropdown-content">
                         {% for sublink in link.sublinks %}
