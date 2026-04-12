@@ -39,9 +39,9 @@
                   {% if link.sublinks %}
                     <li class="dropdown {{ class }}">
                       {% if link.icon %}
-                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><i class="{{ link.icon }}"></i>    {{ link.title }}    <i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
+                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><i class="{{ link.icon }}"></i>    <span>{{ link.title }}</span>    <i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
 					  {% else %}
-                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}    <i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
+                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><span>{{ link.title }}</span>    <i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
 					  {% endif %}
 					  <ul class="dropdown-content">
                         {% for sublink in link.sublinks %}
@@ -54,9 +54,9 @@
                   {% else %}
                     <li class="masthead__menu-item">
                       {% if link.icon %}
-					    <a href="{{ site.baseurl }}{{ link.url }}"><i class="{{ link.icon }}"></i>    {{ link.title }}</a>
+					    <a href="{{ site.baseurl }}{{ link.url }}"><i class="{{ link.icon }}"></i>    <span>{{ link.title }}</span></a>
 					  {% else %}
-					    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+					    <a href="{{ site.baseurl }}{{ link.url }}"><span>{{ link.title }}</span></a>
 					  {% endif %}
                     </li>
                   {% endif %}
