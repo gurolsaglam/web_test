@@ -1,17 +1,17 @@
 # main links
 main:
   - title: "Home"
-    icon: fa fa-home fa-lg
+    icon: fa fa-home fa-sm
     url: /
   - title: "About"
-    icon: fa fa-user fa-lg
+    icon: fa fa-user fa-sm
     sublinks:
       - title: "Profile"
         url: /profile/
       - title: "CV"
         url: /resume/
   - title: "Useful Materials"
-    icon: fa fa-book fa-lg
+    icon: fa fa-book fa-sm
     sublinks:
       - title: "Everything"
         url: /materials/
@@ -22,13 +22,13 @@ main:
       - title: "By Year"
         url: /year-archive/
   - title: "Search"
-    icon: fa fa-search fa-lg
+    icon: fa fa-search fa-sm
     url: /search/
   - title: "Archive"
-    icon: fa fa-archive fa-lg
+    icon: fa fa-archive fa-sm
     url: /archive/
   - title: "Sitemap"
-    icon: fa fa-sitemap fa-lg
+    icon: fa fa-sitemap fa-sm
     url: /sitemap
   # TITLE/URL EXAMPLE
   # - title: "About"
