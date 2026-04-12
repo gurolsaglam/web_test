@@ -38,8 +38,12 @@
                   {% endif %}
                   {% if link.sublinks %}
                     <li class="dropdown {{ class }}">
-                      <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}    <i class="fa fa-caret-down fa-lg" aria-hidden="true"></i></a>
-                      <ul class="dropdown-content">
+                      {% if link.icon %}
+                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}<i class="{{ link.icon }}"></i><i class="fa fa-caret-down fa-lg" aria-hidden="true"></i></a>
+					  {% else %}
+                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }}<i class="fa fa-caret-down fa-lg" aria-hidden="true"></i></a>
+					  {% endif %}
+					  <ul class="dropdown-content">
                         {% for sublink in link.sublinks %}
                           <li>
                             <a href="{{ site.baseurl }}{{ sublink.url }}">    {{ sublink.title }}</a>
@@ -49,7 +53,11 @@
                     </li>
                   {% else %}
                     <li class="masthead__menu-item">
-                      <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+                      {% if link.icon %}
+					    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}<i class="{{ link.icon }}"></i></a>
+					  {% else %}
+					    <a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
+					  {% endif %}
                     </li>
                   {% endif %}
                 {% endfor %}
