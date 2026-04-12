@@ -29,7 +29,7 @@ main:
     url: /archive/
   - title: "Sitemap"
     icon: fa fa-sitemap fa-lg
-    url: /sitemap/
+    url: /sitemap
   # TITLE/URL EXAMPLE
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
