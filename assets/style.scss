@@ -849,6 +849,19 @@ Modules - reusable parts of our design
     .greedy-nav .masthead__menu-item a span {
         display: none; /* Hide the text */
     }
+	
+    .greedy-nav .dropdown a {
+        display: flex; /* Align icon and text */
+        align-items: center; /* Center items vertically */
+    }
+
+    .greedy-nav .dropdown a i {
+        display: inline; /* Show the icon */
+    }
+
+    .greedy-nav .dropdown a span {
+        display: none; /* Hide the text */
+    }
 }
 
 
