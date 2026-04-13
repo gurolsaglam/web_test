@@ -10,6 +10,20 @@ main:
         url: /profile/
       - title: "CV"
         url: /resume/
+      - title: "Work"
+        url: /work/
+      - title: "Teaching"
+        url: /teaching/
+      - title: "Theses"
+        url: /theses/
+      - title: "Projects"
+        url: /projects/
+      - title: "Publications"
+        url: /publications/
+      - title: "Extracurricular"
+        url: /extracurricular/
+      - title: "Personal"
+        url: /personal/
   - title: "Useful Materials"
     icon: fa fa-book fa-sm
     sublinks:
