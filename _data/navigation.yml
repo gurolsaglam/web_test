@@ -6,10 +6,10 @@ main:
   - title: "About"
     icon: fa fa-user fa-sm
     sublinks:
-      - title: "Profile"
-        url: /profile/
       - title: "CV"
         url: /resume/
+      - title: "Profile"
+        url: /profile/
       - title: "Work"
         url: /work/
       - title: "Teaching"
