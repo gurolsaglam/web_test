@@ -206,14 +206,15 @@
     }
 
     .dropdown {
-      float: left;
       width: auto;
+	  position: relative;
 	  display: inline-block;
     }
 
     .dropdown-content {
       display: none;
       position: absolute;
+	  right: 0;
       background-color: darken($white, 3%);
       min-width: 160px;
       box-shadow: $box-shadow;
