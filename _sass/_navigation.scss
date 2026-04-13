@@ -213,6 +213,7 @@
     .dropdown-content {
       display: none;
       position: absolute;
+	  right: 0;
       background-color: darken($white, 3%);
       min-width: 160px;
       box-shadow: $box-shadow;
