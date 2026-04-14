@@ -179,13 +179,13 @@
       -webkit-box-flex: 0;
       -ms-flex: none;
       flex: none;
-      height: 32px; /* default height to fix all masthead items */
+      height: $nav-height; /* default height to fix all masthead items */
     }
 
     a {
       position: relative;
       align-items: center;
-      height: 32px; /* default height to fix all masthead items */
+      height: $nav-height; /* default height to fix all masthead items */
 
       &:before {
         content: "";
@@ -207,6 +207,15 @@
         transform: scaleX(1); // reveal
       }
     }
+    
+    i {
+      margin-right: 6px; /* space after icon */
+    }
+    
+    .fa-caret-down {
+      margin-right: 0; /* no space after icon */
+      margin-left: 6px; /* space before icon */
+    }
 
     .dropdown {
       float: left;
@@ -220,7 +229,7 @@
       position: absolute;
       right: 16px;
       background-color: darken($white, 3%);
-      min-width: calc(100% - 32px);
+      min-width: calc(100% - 2rem); /* 2rem=32px from greedy-nav.a.margin being set to 1rem */
       box-shadow: $box-shadow;
       z-index: 1;
     }
