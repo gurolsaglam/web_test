@@ -929,7 +929,7 @@ Modules - reusable parts of our design
 }
 
 //wrap masthead in the case of the smallest screens
-@include masthead_less_margin {
+@include masthead_wrapped {
   .greedy-nav {
     flex-wrap: wrap;
 	justify-content: center;
