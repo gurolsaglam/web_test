@@ -833,65 +833,65 @@ Modules - reusable parts of our design
 
 //hide text in masthead (except dropdown) if smaller screen, 835px for current masthead
 @include masthead_some_icons {
-  .greedy-nav .masthead-item masthead-item-link {
+  .greedy-nav .visible-links .masthead-item masthead-item-link {
     display: flex; /* Align icon and text */
   }
 
-  .greedy-nav .masthead-item masthead-item-link i {
+  .greedy-nav .visible-links .masthead-item masthead-item-link i {
     display: inline; /* Show the icon */
     margin-left: 6px; /* space before icon */
   }
 
-  .greedy-nav .masthead-item masthead-item-link span {
+  .greedy-nav .visible-links .masthead-item masthead-item-link span {
     display: none; /* Hide the text */
   }
     
-  .greedy-nav .masthead-dropdown masthead-dropdown-toggle {
+  .greedy-nav .visible-links .masthead-dropdown masthead-dropdown-toggle {
     display: flex; /* Align icon and text */
   }
 
-  .greedy-nav .masthead-dropdown masthead-dropdown-toggle i {
+  .greedy-nav .visible-links .masthead-dropdown masthead-dropdown-toggle i {
     display: inline; /* Show the icon */
   }
 
-  .greedy-nav .masthead-dropdown masthead-dropdown-toggle span {
+  .greedy-nav .visible-links .masthead-dropdown masthead-dropdown-toggle span {
     display: inline; /* Hide the text */
   }
   
-  .greedy-nav .masthead-dropdown-content {
+  .greedy-nav .visible-links .masthead-dropdown-content {
     min-width: 100%; /* to fix the text */
   }
 }
 
 //hide text in masthead if smaller screen, 522px for current masthead
 @include masthead_only_icons {
-  .greedy-nav .masthead-item masthead-item-link {
+  .greedy-nav .visible-links .masthead-item masthead-item-link {
     display: flex; /* Align icon and text */
   }
 
-  .greedy-nav .masthead-item masthead-item-link i {
+  .greedy-nav .visible-links .masthead-item masthead-item-link i {
     display: inline; /* Show the icon */
     margin-left: 6px; /* space before icon */
   }
 
-  .greedy-nav .masthead-item masthead-item-link span {
+  .greedy-nav .visible-links .masthead-item masthead-item-link span {
     display: none; /* Hide the text */
   }
     
-  .greedy-nav .masthead-dropdown masthead-dropdown-toggle {
+  .greedy-nav .visible-links .masthead-dropdown masthead-dropdown-toggle {
     display: flex; /* Align icon and text */
   }
 
-  .greedy-nav .masthead-dropdown masthead-dropdown-toggle i {
+  .greedy-nav .visible-links .masthead-dropdown masthead-dropdown-toggle i {
     display: inline; /* Show the icon */
     margin-left: 6px; /* space before icon */
   }
 
-  .greedy-nav .masthead-dropdown masthead-dropdown-toggle span {
+  .greedy-nav .visible-links .masthead-dropdown masthead-dropdown-toggle span {
     display: none; /* Hide the text */
   }
   
-  .greedy-nav .masthead-dropdown-content {
+  .greedy-nav .visible-links .masthead-dropdown-content {
     min-width: 100%; /* to fix the text */
   }
 }
