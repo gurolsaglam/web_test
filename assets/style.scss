@@ -896,7 +896,7 @@ Modules - reusable parts of our design
 @include masthead_less_margin {
   .greedy-nav .visible-links .masthead-item .masthead-item-link {
     display: flex; /* Align icon and text */
-	margin: 0 0.5rem;
+    margin: 0 0.5rem;
   }
 
   .greedy-nav .visible-links .masthead-item .masthead-item-link i {
@@ -910,7 +910,7 @@ Modules - reusable parts of our design
     
   .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle {
     display: flex; /* Align icon and text */
-	margin: 0 0.5rem;
+    margin: 0 0.5rem;
   }
 
   .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle i {
@@ -924,7 +924,7 @@ Modules - reusable parts of our design
   
   .greedy-nav .visible-links .masthead-dropdown-content {
     min-width: max-content; /* to fix the text */
-	right: 8px;
+    right: 8px;
   }
 }
 
@@ -932,6 +932,21 @@ Modules - reusable parts of our design
 @include masthead_wrapped {
   .greedy-nav {
     flex-wrap: wrap;
-	justify-content: center;
+    justify-content: center;
+  }
+  
+  .greedy-nav .visible-links {
+    width: 100%;
+    justify-content: space-around;
+  }
+  
+  .greedy-nav .masthead-item {
+    flex: 1 1 auto;
+    text-align: center;
+  }
+  
+  .greedy-nav .masthead-dropdown {
+    flex: 1 1 auto;
+    text-align: center;
   }
 }
