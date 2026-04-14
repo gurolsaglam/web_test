@@ -64,3 +64,10 @@ $page-max-width: 1280px; /*740px;*/
   }
 }
 
+// Smaller screen breakpoints
+@mixin masthead_less_margin {
+  @media screen and (max-width: 407.25px) {
+    @content;
+  }
+}
+

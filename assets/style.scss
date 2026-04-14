@@ -831,7 +831,7 @@ Modules - reusable parts of our design
   }
 }
 
-//hide text in masthead (except dropdown) if smaller screen, 835px for current masthead
+//hide text in masthead (except dropdown) if smaller screen
 @include masthead_some_icons {
   .greedy-nav .visible-links .masthead-item .masthead-item-link {
     display: flex; /* Align icon and text */
@@ -863,7 +863,7 @@ Modules - reusable parts of our design
   }
 }
 
-//hide text in masthead if smaller screen, 522px for current masthead
+//hide text in masthead if smaller screen
 @include masthead_only_icons {
   .greedy-nav .visible-links .masthead-item .masthead-item-link {
     display: flex; /* Align icon and text */
@@ -880,6 +880,41 @@ Modules - reusable parts of our design
     
   .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle {
     display: flex; /* Align icon and text */
+  }
+
+  .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle i {
+    display: inline; /* Show the icon */
+    margin-left: 6px; /* space before icon */
+  }
+
+  .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle span {
+    display: none; /* Hide the text */
+  }
+  
+  .greedy-nav .visible-links .masthead-dropdown-content {
+    min-width: 100%; /* to fix the text */
+  }
+}
+
+//hide text in masthead if smaller screen, and less margins
+@include masthead_less_margin {
+  .greedy-nav .visible-links .masthead-item .masthead-item-link {
+    display: flex; /* Align icon and text */
+	margin: 0;
+  }
+
+  .greedy-nav .visible-links .masthead-item .masthead-item-link i {
+    display: inline; /* Show the icon */
+    margin-left: 6px; /* space before icon */
+  }
+
+  .greedy-nav .visible-links .masthead-item .masthead-item-link span {
+    display: none; /* Hide the text */
+  }
+    
+  .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle {
+    display: flex; /* Align icon and text */
+	margin: 0;
   }
 
   .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle i {
