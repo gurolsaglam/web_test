@@ -933,6 +933,7 @@ Modules - reusable parts of our design
   .greedy-nav {
     flex-wrap: wrap;
     justify-content: center;
+	display: block;
   }
   
   .greedy-nav .visible-links {
@@ -940,12 +941,7 @@ Modules - reusable parts of our design
     justify-content: space-around;
   }
   
-  .greedy-nav .masthead-item {
-    flex: 1 1 auto;
-    text-align: center;
-  }
-  
-  .greedy-nav .masthead-dropdown {
+  .greedy-nav li {
     flex: 1 1 auto;
     text-align: center;
   }
