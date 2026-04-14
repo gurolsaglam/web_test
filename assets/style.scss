@@ -938,7 +938,7 @@ Modules - reusable parts of our design
   .greedy-nav .visible-links {
     width: 100%;
     justify-content: space-around;
-    display: block;
+    display: contents;
   }
   
   .greedy-nav li {
