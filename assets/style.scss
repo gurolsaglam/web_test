@@ -857,10 +857,6 @@ Modules - reusable parts of our design
   .greedy-nav .visible-links .masthead-dropdown .masthead-dropdown-toggle span {
     display: inline; /* Hide the text */
   }
-  
-  .greedy-nav .visible-links .masthead-dropdown-content {
-    min-width: max-content; /* to fix the text */
-  }
 }
 
 //hide text in masthead if smaller screen
