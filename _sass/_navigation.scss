@@ -217,7 +217,7 @@
       position: absolute;
 	  right: 16px;
       background-color: darken($white, 3%);
-      min-width: calc(100% - 32px)
+      min-width: calc(100% - 32px);
       box-shadow: $box-shadow;
       z-index: 1;
     }
