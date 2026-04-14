@@ -52,14 +52,14 @@ $page-max-width: 1280px; /*740px;*/
 
 // Smaller screen breakpoints
 @mixin masthead_some_icons {
-  @media screen and (max-width: 835px) {
+  @media screen and (max-width: 836.39px) {
     @content;
   }
 }
 
 // Smaller screen breakpoints
 @mixin masthead_only_icons {
-  @media screen and (max-width: 522px) {
+  @media screen and (max-width: 605.25px) {
     @content;
   }
 }
