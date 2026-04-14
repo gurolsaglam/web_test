@@ -836,7 +836,7 @@ Modules - reusable parts of our design
 }
 
 //hide text in masthead (except dropdown) if smaller screen, 835px for current masthead
-@media (max-width: 835px) {
+@include masthead_some_icons {
   .greedy-nav .masthead__menu-item a {
     display: flex; /* Align icon and text */
   }
@@ -868,7 +868,7 @@ Modules - reusable parts of our design
 }
 
 //hide text in masthead if smaller screen, 522px for current masthead
-@media (max-width: 522px) {
+@include masthead_only_icons {
   .greedy-nav .masthead__menu-item a {
     display: flex; /* Align icon and text */
   }

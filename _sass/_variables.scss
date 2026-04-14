@@ -49,5 +49,17 @@ $type-size-6: 0.75em !default; // ~12px
   }
 }
 
+// Smaller screen breakpoints
+@mixin masthead_some_icons {
+  @media screen and (max-width: 835px) {
+    @content;
+  }
+}
 
+// Smaller screen breakpoints
+@mixin masthead_only_icons {
+  @media screen and (max-width: 522px) {
+    @content;
+  }
+}
 
