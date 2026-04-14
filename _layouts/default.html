@@ -19,52 +19,50 @@
     <div id="bar"></div>
     <div class="wrapper-container">
       <div class="wrapper-masthead">
-        <div class="container">
-          <header class="masthead clearfix">
-            <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.baseurl }}{{ site.avatar }}" alt="{{ site.title }}" /></a>
 
-            <div class="site-info">
-              <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }}</p> 
-            </div>
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.description }}</p> 
+          </div>
 
-            <nav class="greedy-nav">
-			  <!--The navigator was edited using code from the user taherbs on github: https://github.com/taherbs/taherbs.github.io-->
-              <ul class="visible-links">
-                {%- for link in site.data.navigation.main -%}
-                  {% assign class = nil %}
-                  {% if page.url contains link.url %}
-                    {% assign class = 'active' %}
-                  {% endif %}
-                  {% if link.sublinks %}
-                    <li class="dropdown">
-                      {% if link.icon %}
-                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><i class="{{ link.icon }}"></i><span>{{ link.title }}</span><i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
-					  {% else %}
-                        <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><span>{{ link.title }}</span><i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
-					  {% endif %}
-					  <ul class="dropdown-content">
-                        {% for sublink in link.sublinks %}
-                          <li>
-                            <a href="{{ site.baseurl }}{{ sublink.url }}">    {{ sublink.title }}</a>
-                          </li>
-                        {% endfor %}
-                      </ul>
-                    </li>
-                  {% else %}
-                    <li class="masthead__menu-item">
-                      {% if link.icon %}
-					    <a href="{{ site.baseurl }}{{ link.url }}"><i class="{{ link.icon }}"></i><span>{{ link.title }}</span></a>
-					  {% else %}
-					    <a href="{{ site.baseurl }}{{ link.url }}"><span>{{ link.title }}</span></a>
-					  {% endif %}
-                    </li>
-                  {% endif %}
-                {% endfor %}
-              </ul>
-            </nav>
-          </header>
-        </div>
+          <!--The navigator was edited using code from the user taherbs on github: https://github.com/taherbs/taherbs.github.io-->
+          <nav class="greedy-nav">
+            <ul class="visible-links">
+              {%- for link in site.data.navigation.main -%}
+                {% assign class = nil %}
+                {% if page.url contains link.url %}
+                  {% assign class = 'active' %}
+                {% endif %}
+                {% if link.sublinks %}
+                  <li class="dropdown">
+                    {% if link.icon %}
+                      <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><i class="{{ link.icon }}"></i><span>{{ link.title }}</span><i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
+                    {% else %}
+                      <a class="dropdown-toggle" data-show="hover" role="button" aria-haspopup="true" aria-expanded="false"><span>{{ link.title }}</span><i class="fa fa-caret-down fa-sm" aria-hidden="true"></i></a>
+                    {% endif %}
+                    <ul class="dropdown-content">
+                      {% for sublink in link.sublinks %}
+                        <li>
+                          <a href="{{ site.baseurl }}{{ sublink.url }}">    {{ sublink.title }}</a>
+                        </li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                {% else %}
+                  <li class="masthead__menu-item">
+                    {% if link.icon %}
+                      <a href="{{ site.baseurl }}{{ link.url }}"><i class="{{ link.icon }}"></i><span>{{ link.title }}</span></a>
+                    {% else %}
+                      <a href="{{ site.baseurl }}{{ link.url }}"><span>{{ link.title }}</span></a>
+                    {% endif %}
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </nav>
+        </header>
       </div>
 
       <div class="wrapper-main">
