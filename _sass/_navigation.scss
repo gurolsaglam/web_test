@@ -217,14 +217,14 @@
       margin-left: 6px; /* space before icon */
     }
 
-    .dropdown {
+    .masthead-dropdown {
       float: left;
       width: auto;
       position: relative;
       display: inline-block;
     }
 
-    .dropdown-content {
+    .masthead-dropdown-content {
       display: none;
       position: absolute;
       right: 16px;
@@ -234,17 +234,17 @@
       z-index: 1;
     }
 
-    .dropdown-content a {
+    .masthead-dropdown-content a {
       padding: 4px 8px;
 	  margin-left: 8px;
 	  margin-right: 8px;
     }
 
-    .dropdown:hover .dropdown-content {
+    .masthead-dropdown:hover .masthead-dropdown-content {
       display: block;
     }
 
-    .dropdown-content a:not(:last-child){
+    .masthead-dropdown-content a:not(:last-child){
       border-bottom: none; 
     }
   }
