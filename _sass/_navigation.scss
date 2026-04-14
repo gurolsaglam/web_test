@@ -187,8 +187,6 @@
       &:before {
         content: "";
         position: absolute;
-        left: 0;
-        bottom: 0;
         height: 4px;
         background: $primary-color;
         width: 100%;
@@ -215,7 +213,7 @@
     .dropdown-content {
       display: none;
       position: absolute;
-	  right: 0;
+	  right: 16px;
       background-color: darken($white, 3%);
       min-width: 160px;
       box-shadow: $box-shadow;
