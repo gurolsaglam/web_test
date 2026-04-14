@@ -898,6 +898,10 @@ Modules - reusable parts of our design
   .greedy-nav .dropdown a span {
     display: none; /* Hide the text */
   }
+  
+  .greedy-nav .dropdown-content {
+    min-width: 100%; /* to fix the text */
+  }
 }
 
 
