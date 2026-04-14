@@ -933,12 +933,12 @@ Modules - reusable parts of our design
   .greedy-nav {
     flex-wrap: wrap;
     justify-content: center;
-	display: block;
   }
   
   .greedy-nav .visible-links {
     width: 100%;
     justify-content: space-around;
+    display: block;
   }
   
   .greedy-nav li {
