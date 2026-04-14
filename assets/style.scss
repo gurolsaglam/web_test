@@ -865,6 +865,12 @@ Modules - reusable parts of our design
   .greedy-nav .dropdown-content {
     min-width: 100%; /* to fix the text */
   }
+  
+  .greedy-nav .dropdown-content a{
+    min-width: 100%; /* to fix the text */
+    display: block;
+    align-items: right; /* Center items vertically */
+  }
 }
 
 //hide text in masthead if smaller screen, 522px for current masthead
@@ -897,6 +903,12 @@ Modules - reusable parts of our design
   
   .greedy-nav .dropdown-content {
     min-width: 100%; /* to fix the text */
+  }
+  
+  .greedy-nav .dropdown-content a{
+    min-width: 100%; /* to fix the text */
+    display: block;
+    align-items: right; /* Center items vertically */
   }
 }
 
