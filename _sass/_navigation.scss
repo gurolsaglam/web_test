@@ -179,11 +179,12 @@
       -webkit-box-flex: 0;
       -ms-flex: none;
       flex: none;
-	  height: 32px;
+	  height: 32px; /* default height to fix all masthead items */
     }
 
     a {
       position: relative;
+	  align-items: center;
 
       &:before {
         content: "";
