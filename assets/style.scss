@@ -72,6 +72,20 @@
   }
 }
 
+.container {
+  margin: 0 auto;
+  max-width: $page-max-width;
+  padding: 0 10px;
+  width: 100%;
+
+  ul {
+    margin: 0;
+    padding: 0;
+    clear: both;
+    list-style-type: none;
+  }
+}
+
 /*.wrapper-container {
   min-height: 100%;
   position: relative;
