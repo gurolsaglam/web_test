@@ -859,7 +859,7 @@ Modules - reusable parts of our design
   }
   
   .greedy-nav .visible-links .masthead-dropdown-content {
-    min-width: 100%; /* to fix the text */
+    min-width: max-content; /* to fix the text */
   }
 }
 
@@ -892,7 +892,7 @@ Modules - reusable parts of our design
   }
   
   .greedy-nav .visible-links .masthead-dropdown-content {
-    min-width: 100%; /* to fix the text */
+    min-width: max-content; /* to fix the text */
   }
 }
 
@@ -927,7 +927,7 @@ Modules - reusable parts of our design
   }
   
   .greedy-nav .visible-links .masthead-dropdown-content {
-    min-width: 100%; /* to fix the text */
+    min-width: max-content; /* to fix the text */
   }
 }
 
