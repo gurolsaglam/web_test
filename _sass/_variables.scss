@@ -71,3 +71,10 @@ $page-max-width: 1280px; /*740px;*/
   }
 }
 
+
+// Smallest screen breakpoints
+@mixin masthead_wrapped {
+  @media screen and (max-width: 324.16px) {
+    @content;
+  }
+}
