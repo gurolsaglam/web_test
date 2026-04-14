@@ -840,7 +840,6 @@ Modules - reusable parts of our design
     .greedy-nav .masthead__menu-item a {
         display: flex; /* Align icon and text */
         align-items: center; /* Center items vertically */
-		justify-content: center;
     }
 
     .greedy-nav .masthead__menu-item a i {
@@ -854,7 +853,6 @@ Modules - reusable parts of our design
     .greedy-nav .dropdown a {
         display: flex; /* Align icon and text */
         align-items: center; /* Center items vertically */
-		justify-content: center;
     }
 
     .greedy-nav .dropdown a i {
