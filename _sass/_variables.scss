@@ -78,3 +78,10 @@ $page-max-width: 1280px; /*740px;*/
     @content;
   }
 }
+
+// Masthead dropdown alignment breakpoint
+@mixin masthead_dropdown_align_left {
+  @media screen and (max-width: 378.85px) {
+    @content;
+  }
+}

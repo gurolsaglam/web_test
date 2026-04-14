@@ -946,3 +946,11 @@ Modules - reusable parts of our design
     text-align: center;
   }
 }
+
+//wrap masthead in the case of the smallest screens
+@include masthead_dropdown_align_left {
+  .greedy-nav .visible-links .masthead-dropdown-content {
+    left: 8px;
+    right: 0px;
+  }
+}
