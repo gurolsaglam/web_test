@@ -310,7 +310,7 @@ Modules - reusable parts of our design
 
 #gh-latest{
     font-size: 16px;
-    text-align: center;		
+    text-align: center;
 }
 
 .text-link {
@@ -844,12 +844,13 @@ Modules - reusable parts of our design
 
   .greedy-nav .masthead__menu-item a i {
     display: inline; /* Show the icon */
+    margin-left: 6px; /* space before icon */
   }
 
   .greedy-nav .masthead__menu-item a span {
     display: none; /* Hide the text */
   }
-	
+    
   .greedy-nav .dropdown a {
     display: flex; /* Align icon and text */
     align-items: center; /* Center items vertically */
@@ -873,12 +874,13 @@ Modules - reusable parts of our design
 
   .greedy-nav .masthead__menu-item a i {
     display: inline; /* Show the icon */
+    margin-left: 6px; /* space before icon */
   }
 
   .greedy-nav .masthead__menu-item a span {
     display: none; /* Hide the text */
   }
-	
+    
   .greedy-nav .dropdown a {
     display: flex; /* Align icon and text */
     align-items: center; /* Center items vertically */
@@ -886,6 +888,7 @@ Modules - reusable parts of our design
 
   .greedy-nav .dropdown a i {
     display: inline; /* Show the icon */
+    margin-left: 6px; /* space before icon */
   }
 
   .greedy-nav .dropdown a span {
