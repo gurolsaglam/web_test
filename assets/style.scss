@@ -863,6 +863,10 @@ Modules - reusable parts of our design
   .greedy-nav .dropdown a span {
     display: inline; /* Hide the text */
   }
+  
+  .greedy-nav .dropdown-content {
+    min-width: 100%; /* to fix the text */
+  }
 }
 
 //hide text in masthead if smaller screen, 522px for current masthead
