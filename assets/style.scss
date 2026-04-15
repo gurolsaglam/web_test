@@ -73,8 +73,6 @@
 }
 
 .container {
-  margin: 0 auto;
-  max-width: $page-max-width;
   padding: 0 10px;
   width: 100%;
 
@@ -99,6 +97,8 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;*/
   /*z-index: 20;*/
+  margin: 0 auto;
+  max-width: $page-max-width;
 }
 
 .wrapper-main {
