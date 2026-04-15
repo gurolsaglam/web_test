@@ -10,6 +10,8 @@ main:
         url: /resume/
       - title: "Profile"
         url: /profile/
+      - title: "Education"
+        url: /education/
       - title: "Work"
         url: /work/
       - title: "Teaching"
