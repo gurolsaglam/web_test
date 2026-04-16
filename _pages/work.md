@@ -32,7 +32,9 @@ permalink: /work/
 ---
 
 **Researcher, FPGA Engineer** <span class="time_period">Sept 2019 - Nov 2022</span>
+
 **[nEMESysLab](https://ugurdag.com/nemesyslab.html), [Özyeğin University](https://www.ozyegin.edu.tr) &mdash; Turkey**
+
 - Executed in-depth research on SoC/FPGA design utilizing Quartus Prime and ModelSim
 - Designed RTL for DCO-OFDM, enhancing high-bandwidth communication in the Visible Light Spectrum
 - Created tools for auto-generating parameterizable designs, streamlining the design process
@@ -44,7 +46,9 @@ permalink: /work/
 ---
 
 **Researcher** <span class="time_period">June 2018 - Sept 2018</span>
+
 **[nEMESysLab](https://ugurdag.com/nemesyslab.html), [Özyeğin University](https://www.ozyegin.edu.tr) &mdash; Turkey**
+
 - Conducted research with the Quartus Prime environment for Intel Altera FPGAs, focusing on tool evaluation
 - Designed custom digital logic circuits to test and report the functionality of various tools effectively
 - Authored comprehensive reports and guides for each tool, ensuring future usability and reference
@@ -52,7 +56,9 @@ permalink: /work/
 ---
 
 **Software Testing Intern** <span class="time_period">July 2017 - Aug 2017</span>
+
 **[Kariyer.net](https://www.kariyer.net) &mdash; Turkey**
+
 - Executed manual testing to ensure software quality and functionality
 - Received comprehensive training in automated testing techniques to enhance testing efficiency
 - Gained proficiency in Agile methodologies, TestRail, and Jira for effective project management
