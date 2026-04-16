@@ -14,6 +14,7 @@ permalink: /education/
     border-color: #eee;
     color: #eee;
 	border: 0;
+	height: 1px;
   }
 </style>
 
