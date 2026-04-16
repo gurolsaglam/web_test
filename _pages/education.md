@@ -5,10 +5,10 @@ permalink: /education/
 ---
 
 **M.Sc. in Computer Science**
+<div class="time_period">Sept 2019 \- Sept 2022</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
-Sept 2019 \- Sept 2022
 
 - Topic: FPGA Implementation of High-Bandwidth Communication through LED-Based DCO-OFDM
 
