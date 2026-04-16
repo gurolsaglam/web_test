@@ -21,7 +21,7 @@ permalink: /education/
 	height: 1px;
   }
 
-  .entry div {
+  .entry span {
     position: absolute;
     right: 0;
     padding: 0 10px;
@@ -29,7 +29,7 @@ permalink: /education/
 </style>
 
 
-**M.Sc. in Computer Science** \<div\>Sept 2019 - Sept 2022\</div\>
+**M.Sc. in Computer Science** <span>Sept 2019 - Sept 2022</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
