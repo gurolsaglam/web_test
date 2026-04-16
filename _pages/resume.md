@@ -6,11 +6,11 @@ permalink: /resume/
 
 <style>
 .entry hr {
-  background-color: #eee;
-  border-color: #eee;
-  color: #eee;
+  background-color: #000;
+  border-color: #000;
+  color: #000;
   border: 0;
-  height: 1px;
+  height: 32px;
 }
 
 .pdf24_ sup {
