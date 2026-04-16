@@ -25,7 +25,7 @@ permalink: /education/
 
 **B.Sc. in Electrical and Electronics Engineering** <span class="time_period">Sept 2015 - June 2019</span>
 
-[Özyeğin University](https://www.ozyegin.edu.tr), Turkey \- 3.29/4 GPA
+[Özyeğin University](https://www.ozyegin.edu.tr), Turkey &mdash; 3.29/4 GPA
 
 - Focus: Electronics and Digital Systems
 
@@ -35,7 +35,7 @@ permalink: /education/
 
 **Minor in Computer Science** <span class="time_period">Feb 2018 - June 2019</span>
 
-[Özyeğin University](https://www.ozyegin.edu.tr), Turkey \- 3.20/4 GPA
+[Özyeğin University](https://www.ozyegin.edu.tr), Turkey &mdash; 3.20/4 GPA
 
 - Focus: Object Oriented Programming, Data Structures and Algorithms
 
