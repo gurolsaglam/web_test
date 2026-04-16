@@ -7,6 +7,10 @@ permalink: /education/
 <style>
   p {
     margin: 0;
+	width: max-content;
+	display: grid;
+	grid-gap: auto;
+	grid-template-columns: auto auto;
   }
   
   hr {
@@ -18,8 +22,8 @@ permalink: /education/
   }
 </style>
 
-<div class="time_period">Sept 2019 - Sept 2022</div>
-**M.Sc. in Computer Science**
+
+**M.Sc. in Computer Science** <div class="time_period">Sept 2019 - Sept 2022</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
@@ -27,8 +31,8 @@ permalink: /education/
 
 ---
 
-<div class="time_period">Sept 2015 - June 2019</div>
 **B.Sc. in Electrical and Electronics Engineering**
+<div class="time_period">Sept 2015 - June 2019</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.29/4 CGPA
 
@@ -38,8 +42,8 @@ permalink: /education/
 
 ---
 
-<div class="time_period">Feb 2018 - June 2019</div>
 **Minor in Computer Science**
+<div class="time_period">Feb 2018 - June 2019</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.20/4 CGPA
 
@@ -47,8 +51,8 @@ permalink: /education/
 
 ---
 
-<div class="time_period">Sept 2010 - June 2015</div>
 **High School**
+<div class="time_period">Sept 2010 - June 2015</div>
 
 [Sırrı Yırcalı Anadolu Lisesi](https://tr.wikipedia.org/wiki/Sırrı_Yırcalı_Anadolu_Lisesi)
 
