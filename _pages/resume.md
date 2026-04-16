@@ -19,7 +19,7 @@ permalink: /resume/
 	color: #000000;
 }
 
-.header_profession {
+.header_general {
 	font-size: 0.830217em;
 	font-family: "Helvetica";
 	color: #000000;
@@ -642,13 +642,12 @@ permalink: /resume/
 </style>
 
 <div><span class="header_name"><strong>Gürol Saglam</strong></span></div>
-<div><span class="header_profession"><strong>Digital Design/FPGA/ASIC Engineer</strong></span></div>
-
+<div><span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span></div>
+<div><span class="header_general"><strong>Address:</strong> Karlsruhe, Germany</span></div>
 
 
 <div class="pdf24_05 pdf24_06">
-	<div class="pdf24_01" style="left:3.841em;top:6.6785em;"><span class="pdf24_07 pdf24_08 pdf24_20">Address: &nbsp;</span></div>
-	<div class="pdf24_01" style="left:8.5467em;top:6.6752em;"><span class="pdf24_10 pdf24_11 pdf24_21" style="word-spacing:0.0247em;">Karlsruhe, Germany &nbsp;</span></div>
+	
 	<div class="pdf24_01" style="left:31.2033em;top:3.5871em;"><span class="pdf24_07 pdf24_08 pdf24_09">Email: &nbsp;</span></div>
 	<div class="pdf24_01" style="left:29.9863em;top:4.7827em;"><span class="pdf24_07 pdf24_08 pdf24_09">Linkedin: &nbsp;</span></div>
 	<div class="pdf24_01" style="left:30.7418em;top:5.9782em;"><span class="pdf24_07 pdf24_08 pdf24_09">Github: &nbsp;</span></div>
