@@ -10,7 +10,9 @@ permalink: /education/
   }
   
   hr {
-    background-color: $lightGray;
+    background-color: #eee;
+    border-color: #eee;
+    color: #eee;
   }
 </style>
 
