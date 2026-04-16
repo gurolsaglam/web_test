@@ -5,14 +5,6 @@ permalink: /education/
 ---
 
 <style>
-  .entry .title_time {
-    margin: 0;
-    width: fit-content;
-    display: grid;
-    grid-gap: auto;
-    grid-template-columns: auto auto;
-  }
-  
   .entry hr {
     background-color: #eee;
     border-color: #eee;
@@ -20,21 +12,10 @@ permalink: /education/
     border: 0;
     height: 1px;
   }
-  
-  //allow flexibility for time period
-  @media only screen and (max-width: 587.09px) {
-    .entry p {
-      display: flex;
-    }
-    
-    .entry .time_period {
-      flex: 1 1 auto;
-    }
-  }
 </style>
 
 
-<p class="title_time"><strong>M.Sc. in Computer Science</strong> <span class="time_period">Sept 2019 - Sept 2022</span></p>
+**M.Sc. in Computer Science** <span class="time_period">Sept 2019 - Sept 2022</span>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
@@ -48,7 +29,7 @@ permalink: /education/
 
 - Focus: Electronics and Digital Systems
 
-- <strong style="padding-right: 8px;">Ranked 1st</strong> in the Electrical and Electronics Engineering Department in class of 2019
+- **Ranked 1st** in the Electrical and Electronics Engineering Department in class of 2019
 
 ---
 
@@ -62,7 +43,7 @@ permalink: /education/
 
 **High School** <span class="time_period">Sept 2010 - June 2015</span>
 
-[Sırrı Yırcalı Anadolu Lisesi](https://tr.wikipedia.org/wiki/Sırrı_Yırcalı_Anadolu_Lisesi)
+[Sırrı Yırcalı Anadolu Lisesi](https://syal.meb.k12.tr) [(wiki)](https://tr.wikipedia.org/wiki/Sırrı_Yırcalı_Anadolu_Lisesi)
 
 - Top 2% of High Schools
 
