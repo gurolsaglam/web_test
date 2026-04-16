@@ -13,6 +13,7 @@ permalink: /education/
     background-color: #eee;
     border-color: #eee;
     color: #eee;
+	border: 0;
   }
 </style>
 
