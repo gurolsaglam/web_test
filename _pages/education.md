@@ -18,8 +18,7 @@ permalink: /education/
   }
 </style>
 
-<div class="time_period">Sept 2019 - Sept 2022</div>
-**M.Sc. in Computer Science**
+**M.Sc. in Computer Science** <div class="time_period">Sept 2019 - Sept 2022</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
@@ -52,7 +51,7 @@ permalink: /education/
 
 [Sırrı Yırcalı Anadolu Lisesi](https://tr.wikipedia.org/wiki/Sırrı_Yırcalı_Anadolu_Lisesi)
 
-- Top 2\% of High Schools
+- Top 2% of High Schools
 
 - One of 10 Anatolian high schools in Turkey with an English prep year
 
