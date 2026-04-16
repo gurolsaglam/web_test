@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 <style>
-  p {
+  .entry p {
     margin: 0;
 	width: max-content;
 	display: grid;
@@ -13,12 +13,19 @@ permalink: /education/
 	grid-template-columns: auto auto;
   }
   
-  hr {
+  .entry hr {
     background-color: #eee;
     border-color: #eee;
     color: #eee;
 	border: 0;
 	height: 1px;
+  }
+  
+  //allow flexibility for time period
+  @media screen and (max-width: 587.09px) {
+    .entry .time_period {
+      flex: 1 1 auto;
+    }
   }
 </style>
 

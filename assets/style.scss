@@ -951,7 +951,7 @@ Modules - reusable parts of our design
   }
 }
 
-//wrap masthead in the case of the smallest screens
+//align masthead dropdown content to fit in the screen
 @include masthead_dropdown_align_left {
   .greedy-nav .visible-links .masthead-dropdown-content {
     left: 8px;
