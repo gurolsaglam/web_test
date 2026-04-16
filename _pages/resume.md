@@ -13,14 +13,26 @@ permalink: /resume/
   height: 32px;
 }
 
-.person_name {
+.header_name {
 	font-size: 2.065592em;
+	font-family: "Helvetica";
+	color: #000000;
+}
+
+.header_profession {
+	font-size: 0.830217em;
 	font-family: "Helvetica";
 	color: #000000;
 }
 
 .pdf24_15 {
 	font-size: 2.065592em;
+	font-family: "BHUVGK+NimbusSanL-Bold", "Times New Roman";
+	color: #000000;
+}
+
+.pdf24_07 {
+	font-size: 0.830217em;
 	font-family: "BHUVGK+NimbusSanL-Bold", "Times New Roman";
 	color: #000000;
 }
@@ -79,11 +91,6 @@ permalink: /resume/
 @font-face {
 	font-family:"BHUVGK+NimbusSanL-Bold";
 	src:url("data:application/octet-stream;base64,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") format("woff");
-}
-.pdf24_07 {
-	font-size: 0.830217em;
-	font-family: "BHUVGK+NimbusSanL-Bold", "Times New Roman";
-	color: #000000;
 }
 .pdf24_08 {
 	line-height: 1.256em;
@@ -634,12 +641,14 @@ permalink: /resume/
 }
 </style>
 
-<div><span class="person_name"><strong>Gürol Saglam</strong></span></div>
-
+<div><span class="header_name"><strong>Gürol Saglam</strong></span></div>
+<div><span class="header_profession"><strong>Digital Design/FPGA/ASIC Engineer</strong></span></div>
 
 
 
 <div class="pdf24_05 pdf24_06">
+	<div class="pdf24_01" style="left:3.841em;top:6.6785em;"><span class="pdf24_07 pdf24_08 pdf24_20">Address: &nbsp;</span></div>
+	<div class="pdf24_01" style="left:8.5467em;top:6.6752em;"><span class="pdf24_10 pdf24_11 pdf24_21" style="word-spacing:0.0247em;">Karlsruhe, Germany &nbsp;</span></div>
 	<div class="pdf24_01" style="left:31.2033em;top:3.5871em;"><span class="pdf24_07 pdf24_08 pdf24_09">Email: &nbsp;</span></div>
 	<div class="pdf24_01" style="left:29.9863em;top:4.7827em;"><span class="pdf24_07 pdf24_08 pdf24_09">Linkedin: &nbsp;</span></div>
 	<div class="pdf24_01" style="left:30.7418em;top:5.9782em;"><span class="pdf24_07 pdf24_08 pdf24_09">Github: &nbsp;</span></div>
@@ -647,10 +656,6 @@ permalink: /resume/
 	<div class="pdf24_01" style="left:35.5396em;top:4.7794em;"><a href="https://linkedin.com/in/gurolsaglam" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_12">linkedin.com/in/gurolsaglam &nbsp;</span></a></div>
 	<div class="pdf24_01" style="left:36.9858em;top:5.9749em;"><a href="https://github.com/gurolsaglam" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_13">github.com/gurolsaglam &nbsp;</span></a></div>
 	<div class="pdf24_01" style="left:38.6214em;top:7.1704em;"><a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_14">scholar.google.com &nbsp;</span></a></div>
-	<div class="pdf24_01" style="left:3.841em;top:3.1152em;z-index:3;"><span class="pdf24_15 pdf24_08 pdf24_09">Gürol Saglam &nbsp;</span></div>
-	<div class="pdf24_01" style="left:3.841em;top:5.483em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.028em;">Digital Design/FPGA/ASIC Engineer &nbsp;</span></div>
-	<div class="pdf24_01" style="left:3.841em;top:6.6785em;"><span class="pdf24_07 pdf24_08 pdf24_20">Address: &nbsp;</span></div>
-	<div class="pdf24_01" style="left:8.5467em;top:6.6752em;"><span class="pdf24_10 pdf24_11 pdf24_21" style="word-spacing:0.0247em;">Karlsruhe, Germany &nbsp;</span></div>
 	<div class="pdf24_01" style="left:27.264em;top:7.1737em;"><span class="pdf24_07 pdf24_08 pdf24_12" style="word-spacing:0.0297em;">Google Scholar: &nbsp;</span></div>
 	<div class="pdf24_01" style="left:3.841em;top:9.5038em;"><span class="pdf24_07 pdf24_08 pdf24_22">EDUCATION &nbsp;</span></div>
 	<div class="pdf24_01" style="left:3.841em;top:10.7956em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.05em;">M.Sc. Computer Science </span><span class="pdf24_10 pdf24_11 pdf24_23" style="word-spacing:0.0323em;">— Ozyegin University — 3.87/4 GPA &nbsp;</span></div>
