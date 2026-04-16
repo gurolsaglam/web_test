@@ -11,7 +11,7 @@ permalink: /education/
   
   hr {
     background-color: #eee;
-    border-color: #eee;
+    border-color: #fff;
     color: #eee;
   }
 </style>
