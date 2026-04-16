@@ -21,7 +21,7 @@ permalink: /education/
 	height: 1px;
   }
 
-  div {
+  .entry div {
     position: absolute;
     right: 0;
     padding: 0 10px;
