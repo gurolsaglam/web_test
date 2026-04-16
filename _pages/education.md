@@ -17,7 +17,7 @@ permalink: /education/
 
 - Topic: FPGA Implementation of High-Bandwidth Communication through LED-Based DCO-OFDM
 
-
+---
 
 <div class="time_period">Sept 2015 - June 2019</div>
 **B.Sc. in Electrical and Electronics Engineering**
@@ -28,7 +28,7 @@ permalink: /education/
 
 - **Ranked 1st** in the Electrical and Electronics Engineering Department in class of 2019
 
-
+---
 
 <div class="time_period">Feb 2018 - June 2019</div>
 **Minor in Computer Science**
@@ -37,7 +37,7 @@ permalink: /education/
 
 - Focus: Object Oriented Programming, Data Structures and Algorithms
 
-
+---
 
 <div class="time_period">Sept 2010 - June 2015</div>
 **High School**
