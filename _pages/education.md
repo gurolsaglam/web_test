@@ -5,7 +5,7 @@ permalink: /education/
 ---
 
 <style>
-  .entry p {
+  .entry .title_time {
     margin: 0;
     width: fit-content;
     display: grid;
@@ -34,7 +34,7 @@ permalink: /education/
 </style>
 
 
-**M.Sc. in Computer Science** <span class="time_period">Sept 2019 - Sept 2022</span>
+<p class="title_time"><strong>M.Sc. in Computer Science</strong> <span class="time_period">Sept 2019 - Sept 2022</span></p>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
@@ -48,7 +48,7 @@ permalink: /education/
 
 - Focus: Electronics and Digital Systems
 
-- <strong>Ranked 1st</strong> in the Electrical and Electronics Engineering Department in class of 2019
+- <strong style="padding-right: 8px;">Ranked 1st</strong> in the Electrical and Electronics Engineering Department in class of 2019
 
 ---
 
