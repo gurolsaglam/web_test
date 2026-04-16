@@ -4,8 +4,15 @@ title: CV
 permalink: /resume/
 ---
 
-<head>
-<STYLE>
+<style>
+.entry hr {
+  background-color: #eee;
+  border-color: #eee;
+  color: #eee;
+  border: 0;
+  height: 1px;
+}
+
 .pdf24_ sup {
 	vertical-align: baseline;
 	position: relative;
@@ -618,10 +625,8 @@ permalink: /resume/
 .pdf24_ie .pdf24_88 {
 	letter-spacing: -0.0627px;
 }
+</style>
 
-
-</STYLE> 
-</head>
 <body>
 	<div id="page_0" class="pdf24_ pdf24_02">
 		<div class="pdf24_03">
@@ -642,6 +647,7 @@ permalink: /resume/
 				<div class="pdf24_01" style="left:8.5467em;top:6.6752em;"><span class="pdf24_10 pdf24_11 pdf24_21" style="word-spacing:0.0247em;">Karlsruhe, Germany &nbsp;</span></div>
 				<div class="pdf24_01" style="left:27.264em;top:7.1737em;"><span class="pdf24_07 pdf24_08 pdf24_12" style="word-spacing:0.0297em;">Google Scholar: &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:9.5038em;"><span class="pdf24_07 pdf24_08 pdf24_22">EDUCATION &nbsp;</span></div>
+				<hr/>
 				<div class="pdf24_01" style="left:3.841em;top:10.7956em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.05em;">M.Sc. Computer Science </span><span class="pdf24_10 pdf24_11 pdf24_23" style="word-spacing:0.0323em;">— Ozyegin University — 3.87/4 G</span><span class="pdf24_10 pdf24_11 pdf24_24">P</span><span class="pdf24_10 pdf24_11 pdf24_24">A &nbsp;</span></div>
 				<div class="pdf24_01" style="left:37.4573em;top:10.7956em;"><span class="pdf24_10 pdf24_11 pdf24_09" style="word-spacing:0.028em;">Sept 2019 - Sept 2022 &nbsp;</span></div>
 				<div class="pdf24_01" style="left:3.841em;top:11.9911em;z-index:290;"><span class="pdf24_25 pdf24_26 pdf24_09" style="word-spacing:0.028em;">• </span><span class="pdf24_10 pdf24_11 pdf24_24">T</span><span class="pdf24_10 pdf24_11 pdf24_09">o</span><span class="pdf24_10 pdf24_11 pdf24_27" style="word-spacing:0.0366em;">pic: FPGA Implementation of High-Bandwidth Communication through LED-Based DCO-OFDM &nbsp;</span></div>
