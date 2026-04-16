@@ -17,7 +17,7 @@ permalink: /education/
 
 **M.Sc. in Computer Science** <span class="time_period">Sept 2019 - Sept 2022</span>
 
-[Özyeğin University](https://www.ozyegin.edu.tr), Turkey \- 3.87/4 GPA
+[Özyeğin University](https://www.ozyegin.edu.tr), Turkey &mdash 3.87/4 GPA
 
 - Topic: FPGA Implementation of High-Bandwidth Communication through LED-Based DCO-OFDM
 
