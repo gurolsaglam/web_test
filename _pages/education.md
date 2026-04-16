@@ -20,10 +20,16 @@ permalink: /education/
 	border: 0;
 	height: 1px;
   }
+
+  div {
+    position: absolute;
+    right: 0;
+    padding: 0 10px;
+  }
 </style>
 
 
-**M.Sc. in Computer Science** <div class="time_period">Sept 2019 - Sept 2022</div>
+**M.Sc. in Computer Science** <div>Sept 2019 - Sept 2022</div>
 
 [Özyeğin University](https://www.ozyegin.edu.tr) \- 3.87/4 CGPA
 
