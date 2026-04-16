@@ -8,6 +8,10 @@ permalink: /education/
   p {
     margin: 0;
   }
+  
+  hr {
+    background-color: $lightGray;
+  }
 </style>
 
 <div class="time_period">Sept 2019 - Sept 2022</div>
