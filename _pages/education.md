@@ -7,22 +7,26 @@ permalink: /education/
 <style>
   .entry p {
     margin: 0;
-	width: max-content;
-	display: grid;
-	grid-gap: auto;
-	grid-template-columns: auto auto;
+    width: fit-content;
+    display: grid;
+    grid-gap: auto;
+    grid-template-columns: auto auto;
   }
   
   .entry hr {
     background-color: #eee;
     border-color: #eee;
     color: #eee;
-	border: 0;
-	height: 1px;
+    border: 0;
+    height: 1px;
   }
   
   //allow flexibility for time period
   @media only screen and (max-width: 587.09px) {
+    .entry p {
+      display: flex;
+    }
+    
     .entry .time_period {
       flex: 1 1 auto;
     }
@@ -44,7 +48,7 @@ permalink: /education/
 
 - Focus: Electronics and Digital Systems
 
-- **Ranked 1st** in the Electrical and Electronics Engineering Department in class of 2019
+- <strong>Ranked 1st</strong> in the Electrical and Electronics Engineering Department in class of 2019
 
 ---
 
