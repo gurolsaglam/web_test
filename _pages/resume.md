@@ -15,6 +15,12 @@ permalink: /resume/
 
 .person_name {
 	font-size: 2.065592em;
+	font-family: "Helvetica";
+	color: #000000;
+}
+
+.pdf24_15 {
+	font-size: 2.065592em;
 	font-family: "BHUVGK+NimbusSanL-Bold", "Times New Roman";
 	color: #000000;
 }
@@ -628,7 +634,7 @@ permalink: /resume/
 }
 </style>
 
-<div><span class="person_name">Gürol Saglam</span></div>
+<div><span class="person_name"><strong>Gürol Saglam</strong></span></div>
 
 
 
