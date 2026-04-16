@@ -22,7 +22,7 @@ permalink: /education/
   }
   
   //allow flexibility for time period
-  @media screen and (max-width: 587.09px) {
+  @media only screen and (max-width: 587.09px) {
     .entry .time_period {
       flex: 1 1 auto;
     }
