@@ -642,7 +642,7 @@ permalink: /resume/
 </style>
 
 
-<div>
+<div style="width: stretch;">
   <div style="float: left; display:grid;">
     <span class="header_name"><strong>Gürol Saglam</strong></span>
     <span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span>
