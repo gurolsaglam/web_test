@@ -643,9 +643,9 @@ permalink: /resume/
 
 <div>
   <span class="header_name"><strong>Gürol Saglam</strong></span>
-  <div style="float: right; display:block;">
-    <span class="header_general"><strong>Email: </strong><a href="mailto:gurolsaglam@gmail.com" target="_blank">gurolsaglam@gmail.com</a></span>
-	<span class="header_general"><strong>Linkedin: </strong><a href="https://linkedin.com/in/gurolsaglam" target="_blank">linkedin.com/in/gurolsaglam</a></span>
+  <div style="float: right; display:grid;">
+    <span class="header_general" style="float: right;"><strong>Email: </strong><a href="mailto:gurolsaglam@gmail.com" target="_blank">gurolsaglam@gmail.com</a></span>
+	<span class="header_general" style="float: right;"><strong>Linkedin: </strong><a href="https://linkedin.com/in/gurolsaglam" target="_blank">linkedin.com/in/gurolsaglam</a></span>
   </div>
 </div>
 <div>
