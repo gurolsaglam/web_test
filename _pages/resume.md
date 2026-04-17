@@ -653,7 +653,7 @@ permalink: /resume/
     <span class="header_general" style="float: right;"><strong>Google Scholar: </strong><a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank">scholar.google.com</a></span>
   </div>
 </div>
-<div><span class="header_general"><strong>EDUCATION</strong></span></div>
+<div><span class="header_general" style="border-bottom: solid 4px;"><strong>EDUCATION</strong></span></div>
 <hr>
 
 
