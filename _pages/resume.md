@@ -14,13 +14,13 @@ permalink: /resume/
 }
 
 .header_name {
-	font-size: 2.065592em;
+	font-size: 2em;
 	font-family: "Helvetica";
 	color: #000000;
 }
 
 .header_general {
-	font-size: 0.830217em;
+	font-size: 1em;
 	font-family: "Helvetica";
 	color: #000000;
 }
@@ -642,7 +642,7 @@ permalink: /resume/
 </style>
 
 
-<div style="display: grid-lines;">
+<div>
   <div style="float: left; display:grid;">
     <span class="header_name"><strong>Gürol Saglam</strong></span>
     <span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span>
