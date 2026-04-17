@@ -643,12 +643,12 @@ permalink: /resume/
 
 
 <div>
-  <div style="float: left; display:grid; width:50%">
+  <div style="float: left; display:grid;">
     <span class="header_name"><strong>Gürol Saglam</strong></span>
     <span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span>
     <span class="header_general"><strong>Address:</strong> Karlsruhe, Germany</span>
   </div>
-  <div style="float: right; display:grid; width:50%">
+  <div style="float: right; display:grid;">
     <span class="header_general" style="float: right;"><strong>Email: </strong><a href="mailto:gurolsaglam@gmail.com" target="_blank">gurolsaglam@gmail.com</a></span>
 	<span class="header_general" style="float: right;"><strong>Linkedin: </strong><a href="https://linkedin.com/in/gurolsaglam" target="_blank">linkedin.com/in/gurolsaglam</a></span>
     <span class="header_general" style="float: right;"><strong>Github: </strong><a href="https://github.com/gurolsaglam" target="_blank">github.com/gurolsaglam</a></span>
