@@ -15,13 +15,11 @@ permalink: /resume/
 
 .header_name {
 	font-size: 2em;
-	font-family: "Helvetica";
 	color: #000000;
 }
 
 .header_general {
 	font-size: 1em;
-	font-family: "Helvetica";
 	color: #000000;
 }
 
