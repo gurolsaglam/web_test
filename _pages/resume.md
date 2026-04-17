@@ -694,15 +694,6 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 
 - Focus: Object Oriented Programming, Data Structures and Algorithms
 
----
-
-**High School** <span class="time_period">Sept 2010 - June 2015</span>
-
-[Sırrı Yırcalı Anadolu Lisesi](https://syal.meb.k12.tr) [(wiki)](https://tr.wikipedia.org/wiki/Sırrı_Yırcalı_Anadolu_Lisesi), Turkey
-
-- Top 2% of High Schools
-- One of 10 Anatolian high schools in Turkey with an English prep year
-
 <div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>EXPERIENCE</strong></span></div>
 
 **Researcher, Digital Design Engineer** <span class="time_period">Dec 2022 - June 2025</span>
