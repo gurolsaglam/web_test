@@ -48,11 +48,11 @@ permalink: /resume/
   </div>
 </div>
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>PROFILE</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>PROFILE</strong></span></div>
 
 I am a **Digital Design Researcher** with a strong background in **RTL development** and **digital design**, from **implementation to verification**. I like working at the intersection of **design**, **optimization**, and **automation**.
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>EDUCATION</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>EDUCATION</strong></span></div>
 
 **M.Sc. in Computer Science** <span class="time_period">Sept 2019 - Sept 2022</span>
 
@@ -77,7 +77,7 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 
 - Focus: Object Oriented Programming, Data Structures and Algorithms
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>EXPERIENCE</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>EXPERIENCE</strong></span></div>
 
 **Researcher, Digital Design Engineer** <span class="time_period">Dec 2022 - June 2025</span>
 
@@ -128,7 +128,7 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 - Gained proficiency in Agile methodologies, TestRail, and Jira for effective project management
 - Leveraged Selenium and Appium frameworks to improve mobile and web-based automated testing processes
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>SKILLS</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>SKILLS</strong></span></div>
 
 **EDA Tools:** Synopsys Design Compiler, Synopsys PrimeTime, Synopsys PrimePower
 
@@ -153,7 +153,7 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 
 **Languages:** Turkish (Native), English (C2), German (B1)
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>ACHIEVEMENTS</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>ACHIEVEMENTS</strong></span></div>
 
 **FPGA Implementation of OFDM based VLC &mdash; M.Sc. Thesis** <span class="time_period">Sept 2022</span>
 
@@ -192,7 +192,7 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 - Created tool comparing job listings in web and mobile apps, identifying inconsistencies in API results
 - Identified opportunity to reduce fixed costs and human error in manual testing, available on [GitHub](https://github.com/gurolsaglam/Kariyer.net-mobile-automation)
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>PUBLICATIONS</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>PUBLICATIONS</strong></span></div>
 
 - **G.Saglam**, F.Afentaki, G.Zervakis, M.B.Tahoori, Sequential Printed MLP Circuits for Super TinyML Multi-Sensory Applications, 30th Asia and South Pacific Design Automation Conference (ASPDAC), ACM, Jan, 2025.
 
@@ -205,6 +205,6 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 - A.Varici, **G.Saglam**, S.Ipek, A.Yildiz, S.Goren, A.Aysu, D.Iskender, T.B.Aktemur, H.F.Ugurdag, Fast and Efficient Implementation of Lightweight Crypto Algorithm PRESENT on FPGA through Processor Instruction Set Extension, IEEE East-West Design & Test Symposium (EWDTS), IEEE, Sep 2019.
 
 
-<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>REFERENCES</strong></span></div>
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>REFERENCES</strong></span></div>
 
 Available upon request.
