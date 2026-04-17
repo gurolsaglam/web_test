@@ -207,4 +207,4 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 
 <div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>REFERENCES</strong></span></div>
 
-Available upon request
+Available upon request.
