@@ -239,13 +239,20 @@
   .nav__list,
   .sidebar,
   .adsbygoogle,
-  .bar {
+  #bar {
     display: none !important;
     height: 1px !important;
   }
   
   .entry hr {
-    display: none !important;
-    height: 1px !important;
+    background-color: #000;
+    border-color: #000;
+    color: #000;
+    border: 0;
+    height: 8px;
+  }
+  
+  .entry .header_general {
+    margin-top: 8px;
   }
 }
