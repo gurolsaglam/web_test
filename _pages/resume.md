@@ -641,22 +641,25 @@ permalink: /resume/
 }
 </style>
 
-<div><span class="header_name"><strong>Gürol Saglam</strong></span></div>
-<div><span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span></div>
-<div><span class="header_general"><strong>Address:</strong> Karlsruhe, Germany</span></div>
-
+<div>
+  <span class="header_name"><strong>Gürol Saglam</strong></span>
+  <div style="float: right;">
+    <span class="header_general"><strong>Email: </strong><a href="mailto:gurolsaglam@gmail.com" target="_blank">gurolsaglam@gmail.com</a></span>
+	<span class="header_general"><strong>Linkedin: </strong><a href="https://linkedin.com/in/gurolsaglam" target="_blank">linkedin.com/in/gurolsaglam</a></span>
+  </div>
+</div>
+<div>
+  <span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span>
+  <span class="header_general" style="float: right;"><strong>Github: </strong><a href="https://github.com/gurolsaglam" target="_blank">github.com/gurolsaglam</a></span>
+</div>
+<div>
+  <span class="header_general"><strong>Address:</strong> Karlsruhe, Germany</span>
+  <span class="header_general" style="float: right;"><strong>Google Scholar: </strong><a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank">scholar.google.com</a></span>
+</div>
+<div><span class="header_general"><strong>EDUCATION</strong></span></div>
+<hr/>
 
 <div class="pdf24_05 pdf24_06">
-	
-	<div class="pdf24_01" style="left:31.2033em;top:3.5871em;"><span class="pdf24_07 pdf24_08 pdf24_09">Email: &nbsp;</span></div>
-	<div class="pdf24_01" style="left:29.9863em;top:4.7827em;"><span class="pdf24_07 pdf24_08 pdf24_09">Linkedin: &nbsp;</span></div>
-	<div class="pdf24_01" style="left:30.7418em;top:5.9782em;"><span class="pdf24_07 pdf24_08 pdf24_09">Github: &nbsp;</span></div>
-	<div class="pdf24_01" style="left:36.6188em;top:3.5838em;"><a href="mailto:gurolsaglam@gmail.com" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_09">gurolsaglam@gmail.com &nbsp;</span></a></div>
-	<div class="pdf24_01" style="left:35.5396em;top:4.7794em;"><a href="https://linkedin.com/in/gurolsaglam" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_12">linkedin.com/in/gurolsaglam &nbsp;</span></a></div>
-	<div class="pdf24_01" style="left:36.9858em;top:5.9749em;"><a href="https://github.com/gurolsaglam" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_13">github.com/gurolsaglam &nbsp;</span></a></div>
-	<div class="pdf24_01" style="left:38.6214em;top:7.1704em;"><a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank"><span class="pdf24_10 pdf24_11 pdf24_14">scholar.google.com &nbsp;</span></a></div>
-	<div class="pdf24_01" style="left:27.264em;top:7.1737em;"><span class="pdf24_07 pdf24_08 pdf24_12" style="word-spacing:0.0297em;">Google Scholar: &nbsp;</span></div>
-	<div class="pdf24_01" style="left:3.841em;top:9.5038em;"><span class="pdf24_07 pdf24_08 pdf24_22">EDUCATION &nbsp;</span></div>
 	<div class="pdf24_01" style="left:3.841em;top:10.7956em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.05em;">M.Sc. Computer Science </span><span class="pdf24_10 pdf24_11 pdf24_23" style="word-spacing:0.0323em;">— Ozyegin University — 3.87/4 GPA &nbsp;</span></div>
 	<div class="pdf24_01" style="left:37.4573em;top:10.7956em;"><span class="pdf24_10 pdf24_11 pdf24_09" style="word-spacing:0.028em;">Sept 2019 - Sept 2022 &nbsp;</span></div>
 	<div class="pdf24_01" style="left:3.841em;top:11.9911em;z-index:290;"><span class="pdf24_25 pdf24_26 pdf24_09" style="word-spacing:0.028em;">• </span><span class="pdf24_10 pdf24_11 pdf24_24">T</span><span class="pdf24_10 pdf24_11 pdf24_09">o</span><span class="pdf24_10 pdf24_11 pdf24_27" style="word-spacing:0.0366em;">pic: FPGA Implementation of High-Bandwidth Communication through LED-Based DCO-OFDM &nbsp;</span></div>
