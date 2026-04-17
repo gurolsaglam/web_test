@@ -779,6 +779,61 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 
 **Languages:** Turkish (Native), English (C2), German (B1)
 
+<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>ACHIEVEMENTS</strong></span></div>
+
+**FPGA Implementation of OFDM based VLC &mdash; M.Sc. Thesis** <span class="time_period">Sept 2022</span>
+
+- Implemented DC-Biased Optical OFDM for a Visible Light Communication System by leveraging Intel Altera's FPGAs and Analog Devices' DAQs, addressing the high complexity of calculations
+- Achieved 3.22x and 2.92x faster modulation with respect to state-of-the-art
+- Created testbenches for each module for verification, ensuring functionality
+- Used Matlab to simulate OFDM and generate input and expected output for verification
+
+---
+
+**Synthesis of Customized Processors for Specific Software Tasks &mdash; B. Sc. Thesis** <span class="time_period">June 2019</span>
+
+- Developed a comprehensive tool in Python/Perl/Tcl for customization of the Very Simple CPU, translating compiled assembly code into tailored memory implementations and a customized soft core in Verilog HDL
+- Deployed debugging capabilities with command-line simulation
+- Delivered a Tcl script for synthesis, place-and-route and bitstream generation as a Xilinx project
+
+---
+
+**OzU Rover Team**
+
+- Manufactured rover prototypes in a student-driven, multi-disciplinary research team at Ozyegin University
+- Designed PCB layouts for all components, worked on communication using UART, SPI, I2C, ROS
+- Mentored the following year's team and gave a workshop on PCB Design, available on [our website](https://rover.ozyegin.edu.tr)
+
+---
+
+**Voice-Controlled Chess**
+
+- Built a voice-controlled chess game using the SpeechRecognition library and Google API
+- Implemented Object-Oriented Programming principles in Python, available on [GitHub](https://github.com/gurolsaglam/Voice-Commanded-Chess)
+
+---
+
+**Kariyer.net Mobile Testing Automation**
+
+- Created tool comparing job listings in web and mobile apps, identifying inconsistencies in API results
+- Identified opportunity to reduce fixed costs and human error in manual testing, available on [GitHub](https://github.com/gurolsaglam/Kariyer.net-mobile-automation)
+
+<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>PUBLICATIONS</strong></span></div>
+
+- **G.Saglam**, F.Afentaki, G.Zervakis, M.B.Tahoori, Sequential Printed MLP Circuits for Super TinyML Multi-Sensory Applications, 30th Asia and South Pacific Design Automation Conference (ASPDAC), ACM, Jan, 2025.
+
+- P.Pal, F.Afentaki, H.Zhao, **G.Saglam**, M.Hefenbrock, G.Zervakis, M.Beigl, M.B.Tahoori, Fault Sensitivity Analysis of Printed Bespoke MLP Classifiers, 2024 IEEE European Test Symposium (ETS), IEEE, May, 2024.
+
+- F.Afentaki, **G.Saglam**, A.Kokkinis, K.Siozios, G.Zervakis, M.B.Tahoori, Bespoke Approximation of Multiplication-Accumulation & Activation Targeting Printed MLPs, 2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD), IEEE, Nov, 2023.
+
+- V.E.Levent, **G.Saglam**, H.F.Ugurdag, N.F.R.Annafianto, F.Aydin, S.W.Tesfay, B.Aly, M.Elamassie, B.Kebapci, M.Uysal, FPGA Based DCO-OFDM PHY Transceiver for VLC Systems, 11th International Conference on Electrical and Electronics Engineering (ELECO), IEEE, Nov, 2019.
+
+- A.Varici, **G.Saglam**, S.Ipek, A.Yildiz, S.Goren, A.Aysu, D.Iskender, T.B.Aktemur, H.F.Ugurdag, Fast and Efficient Implementation of Lightweight Crypto Algorithm PRESENT on FPGA through Processor Instruction Set Extension, IEEE East-West Design & Test Symposium (EWDTS), IEEE, Sep 2019.
+
+
+<div><span class="header_general" style="display: block; border-bottom: solid 4px;"><strong>REFERENCES</strong></span></div>
+
+Available upon request.
 
 
 
