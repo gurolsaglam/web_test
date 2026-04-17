@@ -5,23 +5,34 @@ permalink: /resume/
 ---
 
 <style>
-.entry hr {
-  background-color: #000;
-  border-color: #000;
-  color: #000;
-  border: 0;
-  height: 4px;
-}
+  .entry {
+    font-size: 1em;
+	color: #000;
+  }
+  
+  .header_name {
+    font-size: 2em;
+    color: #000;
+  }
 
-.header_name {
-	font-size: 2em;
-	color: #000000;
-}
+  .header_general {
+    font-size: 1em;
+    color: #000;
+  }
+  
+  .entry p {
+    margin: 0;
+  }
+  
+  .entry hr {
+    background-color: #000;
+    border-color: #000;
+    color: #000;
+    border: 0;
+    height: 4px;
+  }
 
-.header_general {
-	font-size: 1em;
-	color: #000000;
-}
+  
 
 .pdf24_15 {
 	font-size: 2.065592em;
