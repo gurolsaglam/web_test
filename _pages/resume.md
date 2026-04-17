@@ -641,6 +641,24 @@ permalink: /resume/
 }
 </style>
 
+
+<div style="display: grid-lines;">
+  <div style="float: left; display:grid;">
+    <span class="header_name"><strong>Gürol Saglam</strong></span>
+    <span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span>
+    <span class="header_general"><strong>Address:</strong> Karlsruhe, Germany</span>
+  </div>
+  <div style="float: right; display:grid;">
+    <span class="header_general" style="float: right;"><strong>Email: </strong><a href="mailto:gurolsaglam@gmail.com" target="_blank">gurolsaglam@gmail.com</a></span>
+	<span class="header_general" style="float: right;"><strong>Linkedin: </strong><a href="https://linkedin.com/in/gurolsaglam" target="_blank">linkedin.com/in/gurolsaglam</a></span>
+    <span class="header_general" style="float: right;"><strong>Github: </strong><a href="https://github.com/gurolsaglam" target="_blank">github.com/gurolsaglam</a></span>
+    <span class="header_general" style="float: right;"><strong>Google Scholar: </strong><a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank">scholar.google.com</a></span>
+  </div>
+</div>
+<div><span class="header_general"><strong>EDUCATION</strong></span></div>
+<hr>
+
+
 <div>
   <span class="header_name"><strong>Gürol Saglam</strong></span>
   <div style="float: right; display:grid;">
@@ -658,6 +676,9 @@ permalink: /resume/
 </div>
 <div><span class="header_general"><strong>EDUCATION</strong></span></div>
 <hr>
+
+
+
 
 <div class="pdf24_05 pdf24_06">
 	<div class="pdf24_01" style="left:3.841em;top:10.7956em;"><span class="pdf24_07 pdf24_08 pdf24_09" style="word-spacing:0.05em;">M.Sc. Computer Science </span><span class="pdf24_10 pdf24_11 pdf24_23" style="word-spacing:0.0323em;">— Ozyegin University — 3.87/4 GPA &nbsp;</span></div>
