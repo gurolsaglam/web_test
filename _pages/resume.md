@@ -659,25 +659,6 @@ permalink: /resume/
 <hr>
 
 
-<div>
-  <span class="header_name"><strong>Gürol Saglam</strong></span>
-  <div style="float: right; display:grid;">
-    <span class="header_general" style="float: right;"><strong>Email: </strong><a href="mailto:gurolsaglam@gmail.com" target="_blank">gurolsaglam@gmail.com</a></span>
-	<span class="header_general" style="float: right;"><strong>Linkedin: </strong><a href="https://linkedin.com/in/gurolsaglam" target="_blank">linkedin.com/in/gurolsaglam</a></span>
-  </div>
-</div>
-<div>
-  <span class="header_general"><strong>Digital Design/FPGA/ASIC Engineer</strong></span>
-  <span class="header_general" style="float: right;"><strong>Github: </strong><a href="https://github.com/gurolsaglam" target="_blank">github.com/gurolsaglam</a></span>
-</div>
-<div>
-  <span class="header_general"><strong>Address:</strong> Karlsruhe, Germany</span>
-  <span class="header_general" style="float: right;"><strong>Google Scholar: </strong><a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank">scholar.google.com</a></span>
-</div>
-<div><span class="header_general"><strong>EDUCATION</strong></span></div>
-<hr>
-
-
 
 
 <div class="pdf24_05 pdf24_06">
