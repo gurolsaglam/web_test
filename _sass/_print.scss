@@ -238,7 +238,13 @@
   .author__urls-wrapper,
   .nav__list,
   .sidebar,
-  .adsbygoogle {
+  .adsbygoogle,
+  .bar {
+    display: none !important;
+    height: 1px !important;
+  }
+  
+  .entry hr {
     display: none !important;
     height: 1px !important;
   }
