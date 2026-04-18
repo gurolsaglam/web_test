@@ -31,13 +31,6 @@ permalink: /resume/
     border: 0;
     height: 1px;
   }
-  
-  .entry .newpagediv {
-    display: none;
-    border-bottom: solid 4px;
-    color: #fff;
-    border-bottom-color: #fff;
-  }
 </style>
 
 
@@ -135,9 +128,7 @@ I am a **Digital Design Researcher** with a strong background in **RTL developme
 - Gained proficiency in Agile methodologies, TestRail, and Jira for effective project management
 - Leveraged Selenium and Appium frameworks to improve mobile and web-based automated testing processes
 
-<div><span class="newpagediv section header_general"><strong>SKILLS</strong></span></div>
-
-<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>SKILLS</strong></span></div>
+<div><span class="newpagediv section header_general" style="display: block; border-bottom: solid 4px;"><strong>SKILLS</strong></span></div>
 
 **EDA Tools:** Synopsys Design Compiler, Synopsys PrimeTime, Synopsys PrimePower
 
