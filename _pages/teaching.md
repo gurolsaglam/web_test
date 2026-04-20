@@ -14,7 +14,7 @@ permalink: /teaching/
   }
 </style>
 
-**Teaching Assistant (TA)** <span class="time_period">April 2024 - June~ 2025</span>
+**Teaching Assistant (TA)** <span class="time_period">April 2024 - June 2025</span>
 
 **[Karlsruhe Institute of Technology](https://www.kit.edu/english/) &mdash; Germany**
 
@@ -27,7 +27,7 @@ permalink: /teaching/
 
 ---
 
-**Teaching Assistant (TA)/Head TA** <span class="time_period">Feb 2019 - Aug~ 2022</span>
+**Teaching Assistant (TA)/Head TA** <span class="time_period">Feb 2019 - Aug 2022</span>
 
 **[Özyeğin University](https://www.ozyegin.edu.tr) &mdash; Turkey**
 
