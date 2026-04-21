@@ -37,6 +37,7 @@ footer-links:
   mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
   googlescholar: iqtPWcYAAAAJ #your google scholar profile's user id number in the profile link. For example mine is: https://scholar.google.com/citations?user=iqtPWcYAAAAJ
   orcid: 0000-0002-7762-7384
+  researchgate: Guerol-Saglam
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
