@@ -44,7 +44,7 @@ permalink: /publications/
 This page will be periodically updated, but in the meantime, you can use my other researcher profiles to see more recent works. You can find them right below this text.
 
 <div class="researcher-profiles" style="text-align:center;">
-<a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank"><img width="40" alt="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/960px-Google_Scholar_logo.svg.png"></a>
-<a href="https://orcid.org/0000-0002-7762-7384" target="_blank"><img width="40" alt="ORCID" src="{{ site.baseurl }}/images/ORCID-iD_icon_vector.svg"></a>
-<a href="https://www.researchgate.net/profile/Guerol-Saglam" target="_blank"><img width="40" alt="ResearchGate" src="{{ site.baseurl }}/images/Researchgate--Streamline-Simple-Icons.svg"></a>
+<a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank" style="margin:20px;"><img width="40" alt="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/960px-Google_Scholar_logo.svg.png"></a>
+<a href="https://orcid.org/0000-0002-7762-7384" target="_blank" style="margin:20px;"><img width="40" alt="ORCID" src="{{ site.baseurl }}/images/ORCID-iD_icon_vector.svg"></a>
+<a href="https://www.researchgate.net/profile/Guerol-Saglam" target="_blank" style="margin:20px;"><img width="40" alt="ResearchGate" src="{{ site.baseurl }}/images/Researchgate--Streamline-Simple-Icons.svg"></a>
 </div>
