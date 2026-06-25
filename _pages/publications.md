@@ -46,8 +46,6 @@ permalink: /publications/
 
 This page will be periodically updated, but in the meantime, you can use my other researcher profiles to see more recent works.
 
-<img width="40" alt="Google Scholar logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/960px-Google_Scholar_logo.svg.png"> Google Scholar: [Gurol Saglam](https://scholar.google.com/citations?user=iqtPWcYAAAAJ)
-
-<img width="40" alt="ORCID logo" src="{{ site.baseurl }}/images/ORCID-iD_icon_vector.svg"> ORCID: [Gürol Sağlam](https://orcid.org/0000-0002-7762-7384)
-
-<img width="40" alt="ResearchGate logo" src="{{ site.baseurl }}/images/Researchgate--Streamline-Simple-Icons.svg"> Researchgate: [Gürol Sağlam](https://www.researchgate.net/profile/Guerol-Saglam)
+<a href="https://scholar.google.com/citations?user=iqtPWcYAAAAJ" target="_blank"><img width="40" alt="Google Scholar" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/960px-Google_Scholar_logo.svg.png"></a>
+<a href="https://orcid.org/0000-0002-7762-7384" target="_blank"><img width="40" alt="ORCID" src="{{ site.baseurl }}/images/ORCID-iD_icon_vector.svg"></a>
+<a href="https://www.researchgate.net/profile/Guerol-Saglam" target="_blank"><img width="40" alt="ResearchGate" src="{{ site.baseurl }}/images/Researchgate--Streamline-Simple-Icons.svg"></a>
