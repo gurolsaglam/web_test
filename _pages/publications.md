@@ -12,6 +12,11 @@ permalink: /publications/
     border: 0;
     height: 1px;
   }
+
+  .header_general {
+    font-size: 1em;
+    color: #000;
+  }
 </style>
 
 
