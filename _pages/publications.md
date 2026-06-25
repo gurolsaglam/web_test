@@ -15,6 +15,8 @@ permalink: /publications/
 </style>
 
 
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>PUBLICATIONS</strong></span></div>
+
 - **G.Saglam**, F.Afentaki, [G.Zervakis](https://giozerv.github.io), [M.B.Tahoori](https://cdnc.itec.kit.edu/21_54.php), Sequential Printed MLP Circuits for Super TinyML Multi-Sensory Applications, 30th Asia and South Pacific Design Automation Conference (ASPDAC), ACM, Jan, 2025.
 
 ---
@@ -34,10 +36,18 @@ permalink: /publications/
 - A.Varici, **G.Saglam**, S.Ipek, A.Yildiz, S.Goren, A.Aysu, D.Iskender, [T.B.Aktemur](https://aktemur.github.io), [H.F.Ugurdag](https://ugurdag.com), Fast and Efficient Implementation of Lightweight Crypto Algorithm PRESENT on FPGA through Processor Instruction Set Extension, IEEE East-West Design & Test Symposium (EWDTS), IEEE, Sep 2019.
 
 
+<div><span class="section header_general" style="display: block; border-bottom: solid 4px;"><strong>THESES</strong></span></div>
+
+- **G.Saglam**, FPGA Implementation of OFDM based VLC, M. Sc. Thesis, Özyeğin University, 2022, Istanbul, Turkey.
+
+- **G.Saglam**, Synthesis of Customized Processors for Specific Software Tasks, B. Sc. Thesis, Özyeğin University, 2019, Istanbul, Turkey.
+
+---
+
 This page will be periodically updated, but in the meantime, you can use my other researcher profiles to see more recent works.
 
-Google Scholar: [Gurol Saglam](https://scholar.google.com/citations?user=iqtPWcYAAAAJ)
+<img width="40" alt="Google Scholar logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/960px-Google_Scholar_logo.svg.png"> Google Scholar: [Gurol Saglam](https://scholar.google.com/citations?user=iqtPWcYAAAAJ)
 
-ORCID: [Gürol Sağlam](https://orcid.org/0000-0002-7762-7384)
+<img width="40" alt="ORCID logo" src="{{ site.baseurl }}/images/ORCID-iD_icon_vector.svg"> ORCID: [Gürol Sağlam](https://orcid.org/0000-0002-7762-7384)
 
-Researchgate: [Gürol Sağlam](https://www.researchgate.net/profile/Guerol-Saglam)
+<img width="40" alt="ResearchGate logo" src="{{ site.baseurl }}/images/Researchgate--Streamline-Simple-Icons.svg"> Researchgate: [Gürol Sağlam](https://www.researchgate.net/profile/Guerol-Saglam)
