@@ -29,6 +29,8 @@ In this thesis, DC Biased Optical OFDM (DCO-OFDM) for a VLC System was implement
 - Used Matlab to simulate OFDM, and generate input and expected output for verification
 - **Publication:** V.E.Levent, **G.Saglam**, H.F.Ugurdag, N.F.R.Annafianto, F.Aydin, S.W.Tesfay, B.Aly, M.Elamassie, B.Kebapci, M.Uysal, FPGA Based DCO-OFDM PHY Transceiver for VLC Systems, 11th International Conference on Electrical and Electronics Engineering (ELECO), IEEE, Nov, 2019
 
+<img alt="M.Sc. Thesis Defense" src="{{ site.baseurl }}/images/personal_imgs/thesis_msc_2022.jpg">
+
 ---
 
 **Synthesis of Customized Processors for Specific Software Tasks &mdash; B. Sc. Thesis** <span class="time_period">June 2019</span>
