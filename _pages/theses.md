@@ -19,7 +19,7 @@ permalink: /theses/
 
 **[nEMESysLab](https://ugurdag.com/nemesyslab.html), [Özyeğin University](https://www.ozyegin.edu.tr) &mdash; Turkey**
 
-<p class="text_rightimage">In this thesis, DC Biased Optical OFDM (DCO-OFDM) for a VLC System was implemented on an FPGA. OFDM was originally devised as an RF methodology to carry multiple data within different frequencies in a signal. DCO-OFDM, however, is a specific category of OFDM that creates a signal transmittable via light sources (e.g. LEDs). Due to the high complexity of calculations in DCO-OFDM, it was implemented on an FPGA to meet the ever-increasing demand for higher bandwidth. </p><img style="max-width: 40%; float: right;" alt="M.Sc. Thesis Defense" src="{{ site.baseurl }}/images/personal_imgs/thesis_msc_2022.jpg">
+<p><p class="text_rightimage">In this thesis, DC Biased Optical OFDM (DCO-OFDM) for a VLC System was implemented on an FPGA. OFDM was originally devised as an RF methodology to carry multiple data within different frequencies in a signal. DCO-OFDM, however, is a specific category of OFDM that creates a signal transmittable via light sources (e.g. LEDs). Due to the high complexity of calculations in DCO-OFDM, it was implemented on an FPGA to meet the ever-increasing demand for higher bandwidth. </p><img style="max-width: 40%; float: right;" alt="M.Sc. Thesis Defense" src="{{ site.baseurl }}/images/personal_imgs/thesis_msc_2022.jpg"></p>
 
 - Implemented DC Biased Optical OFDM (DCO-OFDM) for a Visible Light Communication System on FPGA in Verilog
 - Leveraged Intel's Altera's Arria 10 SoC Development Kits and Analog Devices' AD-FMCDAQ2-EBZ Evaluation Boards, addressing required design area and ADC/DAC conversion precision along with sampling rate
